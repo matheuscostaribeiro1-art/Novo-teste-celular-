@@ -1,6 +1,8 @@
 # Personas de donos de clínica no Brasil
 
-> **Versão 1.0 — maio de 2026.** Destilação de ~8 mil URLs e ~800 fontes consultadas em pesquisa primária realizada por sete agentes em paralelo. Notas brutas estão preservadas em `pesquisa/` (sete arquivos, ~390KB) para auditoria de qualquer afirmação aqui. **Cada persona traz no rodapé as 5–10 fontes principais que a sustentam.**
+> **Versão 2.0 — maio de 2026.** Destilação de ~11 mil URLs e ~1.300 fontes consultadas em pesquisa primária realizada por 11 agentes em paralelo (3 ondas). Notas brutas estão preservadas em `pesquisa/` (onze arquivos, ~600KB) para auditoria de qualquer afirmação aqui. **Cada persona traz no rodapé as 5–10 fontes principais que a sustentam.**
+>
+> **Mudou desde a v1:** adicionadas 15 novas personas (P17–P31), cobrindo cirurgião plástico solo, oftalmo cirurgião, otorrino-rinoplastia, urologia/TRT, medicina de longevidade, geriatra concierge, médico de família/DPC, FIV/reprodução humana, endocrino GLP-1, pediatria Instagram-mãe, fonoaudiologia ABA, terapia ocupacional, quiropraxia, enfermagem estética e podologia clínica.
 >
 > Escopo: dentistas, médicos, fisioterapeutas, psicólogos, biomédicos esteticistas, nutricionistas e veterinários donos de clínica/consultório no Brasil. Recortes cruzados por gênero e por modelo societário.
 >
@@ -66,8 +68,23 @@ Sete padrões aparecem em **praticamente todas** as personas que mapeei. Quem ve
 | 14 | **Aline, a nutricionista que quer escalar** | Nutricionista clínica + online | F | Solo + tentando programa | 36 | Capital ou cidade 200k+ |
 | 15 | **Dra. Renata, a vet boutique** | Veterinária clínica pequena/dermato pet | F | Solo ou com 1 sócia | 34 | Capital, bairro nobre |
 | 16 | **Dr. Bruno e Dra. Fernanda, os sócios do 24h** | Vet 24h, multi-sócios | M+F | Sociedade (3-5 sócios) | 38–45 | Capital ou cidade 300k+ |
+| **17** | **Dr. Thiago, o cirurgião plástico estrela** | Cirurgião plástico (SBCP) | M | Solo, marca pessoal | 44 | Vila Nova Conceição SP |
+| **18** | **Dra. Cláudia, a oftalmologista cirurgiã** | Oftalmo refrativa/catarata | F | Sócia (multi-cirurgião + investidor) | 46 | Capital, hospital de olhos próprio |
+| **19** | **Dr. Rodrigo, o otorrino-rinoplastia** | Otorrino exclusivo rinoplastia | M | Solo nicho cirúrgico facial | 39 | Capital ou cidade 500k+ |
+| **20** | **Dr. Bernardo, o urologista TikToker** | Urologia / andrologia / TRT | M | Solo + sociedade SaúdeMasc | 41 | Capital |
+| **21** | **Dr. Pedro, o médico de longevidade** | Endocrino/clínico longevity | M | Boutique solo + assinatura | 42 | Capital, atende AAA |
+| **22** | **Dra. Beatriz, a geriatra concierge** | Geriatra domiciliar premium | F | Solo + parceria com home care premium | 48 | Capital (atende eixo Itaim/Jardins) |
+| **23** | **Dra. Marina, a médica de família concierge** | Médica de família/DPC | F | Solo ou dupla, modelo assinatura | 36 | Capital, pioneira no nicho |
+| **24** | **Dra. Roberta, a médica de FIV** | Ginecologista RH | F | Sociedade (3-4 médicos + investidor) | 47 | Capital, eixo Faria Lima |
+| **25** | **Dr. Vinícius, o endocrino do Ozempic** | Endocrinologista GLP-1 | M | Solo + nutri PJ | 38 | Capital ou cidade 400k+ |
+| **26** | **Dra. Helena, a pediatra Instagram-mãe** | Pediatra particular premium | F | Solo + curso digital | 39 | Capital, Pinheiros/Itaim |
+| **27** | **Paula, a fonoaudióloga de ABA** | Fonoaudióloga TEA infantil | F | Solo ou pequena equipe multidisciplinar | 34 | Capital ou cidade 200k+ |
+| **28** | **Renata, a terapeuta ocupacional do espectro** | TO infantil (TEA + sensorial) | F | Solo ou clínica integrada | 31 | Capital ou cidade 150k+ |
+| **29** | **Pablo, o quiropraxista bacharel** | Quiropraxista Anhembi | M | Solo ou pequena rede | 32 | Capital, eixo wellness |
+| **30** | **Juliana, a enfermeira esteta** | Enfermagem estética | F | Solo (consultório próprio + Insta) | 35 | Capital ou cidade 200k+ |
+| **31** | **Nazaré, a podóloga do interior** | Podologia clínica + diabético | F | Solo, microcrédito | 53 | Cidade média NE/N/CO |
 
-São 16 personas. Surgiram naturalmente — não força bruta da matriz 4×2×2. Quando duas variações ficaram quase iguais (ex.: dentista mulher solo e dentista mulher com 1 sócio no início de carreira), fundi.
+São **31 personas**. Surgiram naturalmente — não força bruta da matriz. Quando duas variações ficaram quase iguais (ex.: dentista mulher solo e dentista mulher com 1 sócio no início de carreira), fundi.
 
 ---
 
@@ -1034,6 +1051,790 @@ Cada conselho tem seu campo minado. Quem vende serviço sem conhecer isso queima
 
 ---
 
+### Persona 17 — Dr. Thiago, o cirurgião plástico estrela
+
+**Snapshot.** 44 anos, formado USP-RP 2003, residência cirurgia geral + plástica Santa Casa SP. Titular SBCP. Trabalhou 5 anos como assistente em hospital privado, abriu consultório próprio em 2014. Solo, marca pessoal forte. Opera no Vila Nova Star + São Luiz Itaim. Faturamento R$ 95-140 mil/mês (cirurgia particular + consultório). Casado com Dra. Beatriz (Persona 7 — dermato), 1 filho de 8 anos. Solteiro de cláusulas societárias propositalmente — marca é dele, não da clínica.
+
+**Rotina de uma terça.** 5h crossfit + 8km corrida (preparação Ironman 70.3 Florianópolis 2026). 8h café com a esposa. 8h30 consultório (consulta pré-cirúrgica). 13h almoço com instrumentadora + anestesista parceiros. 14h cirurgia no Vila Nova Star (1 abdominoplastia + lipo). 19h volta pra casa cansado. 21h responde direct no Insta (perfil pessoal 78k seguidores). Dorme 23h.
+
+**Vida pessoal.** Apartamento 300m² Vila Nova Conceição (R$ 9 mi, financiado 30%). Casa em Trancoso pra janeiro. Carros: Porsche Macan + XC60 dela. Triathlon é hobby sério — Strava ativo, treina com grupo de cirurgiões. Vinho (cave em casa, ABS curso). Viagem: Trancoso + Europa anual + Disney bienal + Maldivas a cada 3 anos. Roupa: Reserva (esportiva), Aramis (consulta), Polo (social). Relógio Tag Heuer planejando Rolex Daytona pros 50. Religião católico não-praticante. Política votou Bolsonaro 2018, branco 2022 — defende "racionalidade fiscal". Lê Valor diariamente.
+
+**Por que abriu.** Hospital privado dava 50% do honorário cirúrgico. "Não dá pra ganhar dinheiro dependendo de plantão". Já tinha base de paciente de cirurgia oncológica (ironicamente — o ponto de virada foi começar a operar plástica eletiva privadamente). Abriu consultório em 2014 com R$ 280 mil de poupança + financiamento da casa própria como garantia.
+
+**Modelo de negócio.** Particular puro 100%. Tickets: consulta R$ 1.200 (40min, anamnese + simulação 3D), abdominoplastia R$ 32-38k, lipo HD R$ 18-25k, mamoplastia aumento R$ 28-35k, rinoplastia primária R$ 22-32k (compete com otorrino, ver Persona 19), mommy makeover R$ 65-85k. Hospital + anestesista cobra à parte (~R$ 7-9k). 4-6 cirurgias/semana, 8-10 consultas/dia em 3 dias.
+
+**Como capta hoje.** Indicação de paciente atual (55% — boca-a-boca de classe AB+ é o canal #1). Indicação de Beatriz (dermato — pacientes dela que querem cirurgia). Instagram (30%, 78k seguidores, conteúdo educativo sobre técnica, sem antes/depois identificáveis). Doctoralia Premium R$ 339/mês (5%). Google Ads (10%, R$ 12k/mês).
+
+**Trauma com marketing.** Pesado. Em 2019, agência sugeriu antes/depois com TCLE. Foi denunciado anonimamente ao CREMESP. Sindicância arquivada após 11 meses de stress puro. Desde então tem advogado médico fixo (R$ 4k/mês) que revisa cada peça antes de publicar. Acompanha o caso Marcos Harter (censura pública CRM-PR mantida pelo CFM em 2023) e a cassação do Dr Rocha como cases pessoais.
+
+**Medos (ordem brutal).**
+1. **Morte na mesa.** As manchetes de 2024 (Aline Ferreira PMMA, Dani Li cantora, Fábia Portilho empresária) destruíram o sono. Lipo é 61,8% das mortes em plástica BR — ele faz lipo todo dia.
+2. **Cassação por publicidade.** Vive de portfólio mas não pode mostrar portfólio. Caso Harter o assombra.
+3. **Paciente com expectativa irreal viralizar contra ele.** ~30% dos pacientes que chegam tem "biotipo incompatível" com a foto de Insta que trouxeram.
+4. **Concorrência desleal** de biomédica/dentista (HOF) aplicando botox por dumping. TRF-1 suspendeu Res. CFBM 241/2014 em mar/2026 mas a guerra continua.
+5. **Esposa parar de trabalhar** — não financeiramente, mas o casamento se sustenta na simetria profissional.
+
+**Desejos.**
+1. **Virar referência de NICHO específico** — abandonar "faz de tudo" e virar "o de mama" ou "o de face".
+2. **Operar exclusivamente em hospital top** (já está — quer manter).
+3. **Construir presença digital sem se queimar** — Instagram 200k+ sem sindicância.
+4. **Volume controlado e premium** (já está em 1-2 cirurgias/dia em 3 dias/semana — quer manter).
+5. **Filho seguir medicina** (não cirurgia plástica — quer plástica como sucessão, mas filho ainda quer ser engenheiro de foguete).
+
+**Crenças.** "Obrigação de meio, não de resultado" (mantra jurídico). "Naturalidade vende mais que exagero — exagero traz processo". "CFM 2336 é absurda mas legítima". "Influencer biomédica é o câncer da profissão". "Casamento médico-médico é o único que dá certo nessa carreira".
+
+**Vocabulário.** "Titular SBCP" / "RQE", "TCLE", "obrigação de meio", "biotipo incompatível", "expectativa irreal", "deep plane facelift", "lipo HD", "BBL", "mommy makeover", "VASER", "drenagem", "definição muscular".
+
+**Gatilhos que abrem.** Conteúdo sobre cirurgião premium estabelecido (não iniciante). CRM com prontuário ético blindado (LGPD + TCLE + atributo cirúrgico). Tema "construir marca pessoal Instagram sem virar Harter". Ferramenta com revisão jurídica pré-publicação.
+
+**Gatilhos que fecham.** "Influencer médico". Promessa de "30 cirurgias/mês". Linguagem coach. Imagem de paciente jovem demais. Antes/depois mostrado abertamente. Qualquer agência que não cite CFM 2336 no primeiro slide.
+
+**Variação.** No RJ (Leblon, Ipanema, Barra), perfil quase idêntico. Em BH (Belvedere/Lourdes), tem 1 unidade com 2 cirurgiões + esposa gestora ativa. Em capital menor, é "o cirurgião plástico da cidade" e tem perfil mais conservador, menos "estrela".
+
+**Fontes-base.**
+- ISAPS Global Survey 2024 (BR #1) — https://www.isaps.org/media/3uhnjvup/2024-global-survey-portuguese-brazilian.pdf
+- SBCP — Brasil lidera — https://www.cirurgiaplastica.org.br/en/brasil-lidera-cirurgias-plasticas-no-mundo-e-reforca-papel-da-sbcp/
+- Caso Aline Ferreira PMMA — https://www.publico.pt/2024/07/04/impar/noticia/influenciadora-brasilia-morre-aplicacao-pmma-gluteos-2096318
+- Marcos Harter punição CRM — https://www.metropoles.com/colunas/fabia-oliveira/punicao-de-marcos-harter-acende-debate-sobre-relacao-medico-paciente
+- CFM 2336/2023 — https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2023/2336_2023.pdf
+- Ironman Dr. Hugo Santos Vieira (cirurgião plástico atleta) — https://www.jornalopcao.com.br/esportes/medico-campeonato-mundial-italia-820501/
+- Migalhas expectativas cirurgia — https://www.migalhas.com.br/coluna/migalhas-de-direito-medico-e-bioetica/424252/informacao-em-plasticas-e-expectativas-criadas-pela-publicidade
+- Instituto CDT cirurgião plástico R$ 55k/mês — https://institutocdt.com.br/blog/quanto-ganha-um-cirurgiao-plastico-no-brasil-panorama-da-carreira/
+
+---
+
+### Persona 18 — Dra. Cláudia, a oftalmologista cirurgiã
+
+**Snapshot.** 46 anos, formada Unifesp 1999, residência oftalmo HSP/Unifesp 2003. Subespecialização em córnea e refrativa em Madrid 2006 (Vissum). Trabalhou 10 anos em hospital de olhos terceiro, abriu sociedade em 2014 — hoje "Instituto de Visão Cláudia Almeida" com 3 sócios (ela + Dr. André + Dra. Renata) + 1 sócio investidor (cunhado, family office). Centro cirúrgico próprio com laser excimer. Faturamento clínica R$ 720 mil/mês total; ela tira R$ 95-120k/mês líquido. Casada com economista (sócio investidor é cunhado), 2 filhos (12 e 9 anos).
+
+**Rotina de uma terça.** 6h acorda. Treino tênis 2x/semana (Clube Paulistano). 8h café família. 8h30 chega ao instituto. Manhã: bloco cirúrgico (refrativa + catarata, 6-8 cirurgias). 13h almoço com sócios — reunião informal. 14h-19h consultório (consulta pré e pós, indicação cirúrgica). 19h30 jantar em casa. 21h responde e-mail e WhatsApp profissional. 22h30 leitura técnica (American Journal of Ophthalmology) ou Folha. Dorme 23h.
+
+**Vida pessoal.** Apartamento 290m² Higienópolis (próprio, sem financiamento). Casa em Maresias (R$ 2,5 mi). Carros: Volvo XC60 dela + Audi Q5 dele. Filhos no Móbile / Pueri Domus. Viagem: congresso ASCRS/ESCRS anuais (San Diego, Viena, Paris) com marido. Família vai pra Disney bienal, Itália em 2025. Roupa: Le Lis Blanc, Animale, Carmen Steffens (sapato). Bolsa Louis Vuitton (presente do marido). Hobby paralelo: vinho (curso ABS) e leitura. Religião católica não-praticante. Política: votou Lula 2022, centro-esquerda moderada. Lê Folha + Valor.
+
+**Por que abriu sociedade.** Em 2013, percebeu que o hospital de olhos onde trabalhava cobrava R$ 5k/olho da refrativa e ela recebia R$ 800. Calculou: com laser próprio, equipe própria e 4 cirurgiões pra manter laser ocupado, margem dobra. Convidou 2 colegas de residência (André + Renata). Cunhado entrou com R$ 2,8 mi de aporte pra comprar laser excimer + reforma do centro cirúrgico. Sociedade LTDA com acordo de sócios robusto (Bichara Advogados estruturou).
+
+**Modelo de negócio.** 50% convênio (consulta + catarata via plano), 50% particular. **O suco do negócio:** upgrade de lente intraocular no paciente de catarata via convênio. Plano cobre lente monofocal; paciente paga R$ 5-8k extra por lente multifocal/tórica/EDOF. Margem altíssima nesse upgrade. Tickets: consulta particular R$ 600, cirurgia refrativa R$ 5.500-7.500/olho, catarata particular R$ 8-15k/olho, ceratocone (crosslinking) R$ 5-8k/olho, lente intraocular premium R$ 4-7k/olho. Cirurgia refrativa volume alto (8-12/semana entre os 3 sócios).
+
+**Como captam.** Indicação clínica (clínico geral, endócrino, neurologista) — 35%. Doctoralia + Google Maps + SEO local — 25%. Instagram do instituto (45k seguidores) + Insta pessoal dela (12k) — 25%. Convênio Bradesco Top/SulAmérica Prestige garantindo upgrade — 15%.
+
+**Trauma com marketing.** Moderado. Em 2020 contrataram agência local que entregou "alcance" mas pouca cirurgia. Trocaram em 2022 por agência médica de SP especializada (R$ 9,5k/mês). Hoje têm painel auditável — Cláudia revisa mensalmente. Frustração: a captação pra cirurgia refrativa é fácil (lead jovem, 25-40, Insta funciona); a pra catarata é difícil (paciente idoso, vem por indicação clínica).
+
+**Medos.**
+1. **Movimento de consolidação engolir o instituto.** Vision One (60+ clínicas pós fusão com H.Olhos/CERPO/Molinari em 2024) já fez aproximação 2x. Não vender significa virar empregado deles eventualmente.
+2. **Erro em refrativa** — paciente jovem com expectativa "sem óculos pra sempre" descobrindo presbiopia 10 anos depois. Já viu processo de colega.
+3. **Optometrista ganhando jurisprudência favorável** — TJ-MG out/2025 entendeu que optometrista pode ter consultório próprio. STJ tinha decidido contra em 2020. Insegurança.
+4. **Convênio achatando reembolso de catarata.** Honorário médico R$ 800-1.500 — não cobre o tempo de bloco.
+5. **Sócio brigando.** Tem 3 sócios médicos + 1 investidor. Reunião mensal com ata. Mas o André entrou em depressão em 2023 — momento de tensão real.
+
+**Desejos.**
+1. **Crescer pra hospital de olhos próprio** (já estão — querem 2ª unidade na Berrini em 2027).
+2. **Migração para particular puro + premium de lente.** Sair de 50% convênio gradualmente.
+3. **Especialização em córnea avançada** (CXL acelerado, transplante endotelial DSAEK/DMEK).
+4. **Não ser comprada pela Vision One — ou ser comprada por preço alto** (sonham com cheque de saída de R$ 8-15 mi por sócio).
+5. **Filhos em medicina** (filho mais velho já fala em oftalmo — sucessão potencial).
+
+**Crenças.** "Oftalmo é negócio de equipamento — quem não tem laser próprio é empregado". "Consolidação é inevitável — questão é vender bem". "Convênio é mal necessário até a marca consolidar". "Marketing tem ROI auditável ou não é marketing". "Sociedade só com acordo robusto".
+
+**Vocabulário.** "Refrativa", "PRK", "LASIK", "SMILE", "transPRK", "topografia", "tomografia de córnea", "pentacam", "lente premium" (tórica, multifocal, EDOF), "faco" (facoemulsificação), "crosslinking", "anel intracorneano", "olho seco", "tabela CBHPM", "biometria óptica IOLMaster".
+
+**Gatilhos que abrem.** Caso de instituto de oftalmo que vendeu por múltiplo alto pra rede. CRM multi-sócios com visão de cirurgia por médico + por origem. Funil de upgrade de lente (convênio → particular premium). Tema "como negociar com Vision One/Opty sem ser engolido". Painel de ROI por especialidade.
+
+**Gatilhos que fecham.** Promessa de "30 cirurgias refrativas/mês" sem critério clínico. Linguagem coach. Marketing que ignora a dinâmica convênio→upgrade (é a essência do negócio). Anúncio com cara de "clínica de bairro".
+
+**Variação.** No Sul (POA, Florianópolis), perfil quase idêntico. Em BH (Lourdes), tem perfil similar mas com Hospital de Olhos da Família histórico forte. Em capital menor, sociedade é menor (2-3 médicos) e CAPEX é menor (sem laser próprio — usa laser locado).
+
+**Fontes-base.**
+- Instituto CDT — oftalmo R$ 42k/mês — https://institutocdt.com.br/blog/especialidades-medicas-mais-bem-pagas-em-2026/
+- Vision One — fusão H.Olhos 2024 — https://portalhospitaisbrasil.com.br/fusao-em-oftalmologia-grupo-h-olhos-se-une-a-vision-one/
+- Opty expansão SP — https://healthcare.grupomidia.com/opty-anuncia-novos-associados-unidade-paulista-de-oftalmologia-e-hospital-medicina-dos-olhos/
+- Eye Care Hospital — Prof. Dr. Renato Neves (40 mil refrativas) — https://eyecare.com.br/corpo-clinico/
+- STJ optometrista 2020 — https://www.conjur.com.br/2020-out-15/optometrista-nao-consultas-receitar-oculos-stj/
+- TJ-MG 2025 optometrista pode — https://www.conjur.com.br/2025-out-29/optometristas-podem-fazer-exames-consultas-e-prescrever-lentes-diz-tj-mg/
+- Reclame Aqui H.Olhos refrativa propaganda enganosa — https://www.reclameaqui.com.br/h-olhos-hospital-de-olhos-paulista/propaganda-enganosa-campanha-cirurgia-refrativa_4ZfAvGMvTDkEOpYb/
+- Preço crosslinking SP — https://institutodrudiealmeida.com.br/blog/crosslinking-ceratocone-sp/
+
+---
+
+### Persona 19 — Dr. Rodrigo, o otorrino-rinoplastia
+
+**Snapshot.** 39 anos, formado UFPR 2009, residência otorrino HC-UFPR 2014. Fez fellowship em rinoplastia funcional+estética em Buenos Aires (2016) com Dr. Diego Saban + curso de aperfeiçoamento estrutural em SP (2018, com Dr. João Pedro Tedesco Garcia). Atende em Curitiba (Batel) — consultório próprio + opera em hospital particular (Marcelino Champagnat). Solo. Faturamento R$ 75-95 mil/mês. Casado com fonoaudióloga (Dra. Marcela — Persona 27 está próxima do perfil dela), 1 filho de 5 anos.
+
+**Rotina de uma terça.** 6h30 acorda. Café com a filha. 7h30 sai. Consultório 8h-13h (consulta pré + pós + revisão). Almoço com Marcela (10min). 14h-18h cirurgia no Marcelino (1 rinosseptoplastia, ~4-5h). 19h volta pro consultório só pra responder direct (45min). 20h jantar em casa. 22h estuda técnica (Tebbetts, Daniel, Sheen — livros clássicos rinoplastia). Dorme 23h.
+
+**Vida pessoal.** Apartamento 200m² Batel (R$ 2,4 mi). Carros: Volvo XC60 dele + T-Cross dela. Filha no Colégio Bom Jesus. Viagem: Argentina (Bariloche, Buenos Aires) anual — Rodrigo viveu lá. Europa bienal. Disney 1x. Roupa: Polo, Reserva, Aramis. Relógio Tag Heuer Carrera. Religião católico tradicional praticante (missa de domingo). Política: centro-direita moderado. Lê Folha + Gazeta do Povo. Comida: low-carb pragmática (não dogmática). Vinho fim de semana. Hobby: pesca esportiva (Foz do Iguaçu, Pantanal anual com amigos médicos).
+
+**Por que abriu (e por que migrou pra exclusivo rinoplastia).** Saiu do hospital em 2018. Inicialmente tentou consultório multi (rinite + sinusite + apneia + rinoplastia). Em 2020 percebeu: 70% da margem vinha de rinoplastia, 30% do tempo. Decisão: focar 90% em rinoplastia funcional+estética. Saiu da agenda dos convênios de rinite/sinusite. Posicionamento explícito como "exclusivamente rinoplastia". Inspiração declarada: Dr. Guilherme Scheibel (500k+ seguidores Insta, otorrino rinoplastia).
+
+**Modelo de negócio.** Particular puro 100% pra cirurgia. Consulta primeira R$ 800 (60min, simulação 3D Vectra ou foto), retorno R$ 400. Rinosseptoplastia funcional+estética R$ 22-28k. Rinoplastia primária só estética R$ 18-26k. Rinoplastia secundária (revisão de cirurgia mal-feita por colega) R$ 35-55k — nicho dele, tem reputação como "salvador" de casos ruins. Hospital + anestesista + materiais ~R$ 8-10k cobrado à parte. Opera 4-6 cirurgias/semana.
+
+**Como capta.** Instagram (60% — 42k seguidores, conteúdo educativo sobre técnica preservadora vs estrutural, antes/depois com TCLE blurrado). Indicação de paciente atual (25%). Indicação de fono (Marcela manda algumas — apneia + alteração estética). Google "rinoplastia Curitiba" (15%). NÃO usa Doctoralia (perfil dele é premium).
+
+**Trauma com marketing.** Médio-alto. Em 2021, agência sugeriu antes/depois sem TCLE explícito (paciente assinou autorização verbal). Recebeu DM raivosa de paciente meses depois. Quase virou sindicância. Hoje só posta com TCLE escrito + rosto blurrado + cláusula de revogação. Tem advogado médico (R$ 3,5k/mês). Acompanha caso Marcos Harter como case pessoal.
+
+**Medos.**
+1. **Concorrência com cirurgião plástico.** Plástica tem hype maior, Insta gigante. Otorrino-rinoplastia precisa argumentar técnica/anatomia.
+2. **Cassação por antes/depois.** Mesma regra CFM 2336 da plástica.
+3. **Reclame Aqui pós-cirurgia.** Rinoplastia tem 10-15% de revisão — paciente insatisfeita é gatilho de processo.
+4. **Otorrinos tradicionais o criticando.** Algumas regionais ABORL-CCF acham que "rinoplastia exclusiva" é abandono da especialidade.
+5. **Paciente com dismorfia corporal** (BDD) — público recorrente em cirurgia facial, alto risco de processo.
+
+**Desejos.**
+1. **Virar referência sul-brasileira em rinoplastia secundária** (a mais cara, técnica e premium).
+2. **Crescer Insta pra 100k+** sem queimar regra.
+3. **Palestrar em IRS (International Rhinoplasty Society)** ou Triological — reputação internacional.
+4. **Selo "Membro Sociedade Brasileira de Rinoplastia" + ABORL-CCF** (já tem ABORL, busca SBR).
+5. **Filho seguir medicina** (sem pressão — mas torce).
+
+**Crenças.** "Otorrino faz rinoplastia melhor porque entende septo+conchas+válvula nasal". "Estética sem função é meia rinoplastia". "Influencer cirurgião plástico raso destrói a profissão". "CFM 2336 é certa em essência, exagerada em forma". "Marketing tem que ser educativo — função, anatomia, técnica".
+
+**Vocabulário.** "Estrutural" / "preservadora" / "spreader graft" / "columelar strut", "funcional + estética" (sempre juntas), "válvula nasal" / "septo" / "conchas", "turbinectomia", "rinoplastia étnica" / "nariz secundário", "polissonografia" / "CPAP" (apneia), "Vectra 3D" (simulação pré-op).
+
+**Gatilhos que abrem.** Conteúdo sobre nicho cirúrgico exclusivo. CRM com revisão pós-op estruturada (paciente de rinoplastia precisa de 6-12 meses de acompanhamento). Tema "construir Instagram técnico sem entrar na guerra com plástica". Caso de Guilherme Scheibel como benchmark. Ferramenta de TCLE digital integrada.
+
+**Gatilhos que fecham.** Linguagem "estética pura". Promessa numérica. Imagem de cirurgião plástico genérico. Anúncio sem entender que ele é otorrino, não plástico (briga de identidade).
+
+**Variação.** Em SP capital (Itaim, Jardins), perfil é o mesmo mas Instagram 80-150k. No RJ, perfil similar. Em capital menor (Campo Grande, Cuiabá), é o único otorrino-rinoplastia da cidade, perfil mais conservador. Em interior, raríssimo.
+
+**Fontes-base.**
+- Dr. Guilherme Scheibel referência 500k Insta — https://www.segs.com.br/saude/278871-conheca-mais-sobre-o-dr-guilherme-scheibel-otorrinolaringologista-e-referencia-em-rinoplastia
+- Dr. João Pedro Tedesco Garcia POA — https://joaopedrogarcia.com.br/
+- Sociedade Brasileira de Rinoplastia — https://sbrinoplastia.com.br/guia-de-medicos/
+- ABORL-CCF — http://www.sborl.org.br/conteudo/busca.asp
+- RBCP rinoplastia estruturada — https://www.rbcp.org.br/details/1949/avaliacao-funcional-e-estetica-da-rinoplastia-estruturada
+- Carreira otorrino Afya — https://educacaomedica.afya.com.br/blog/carreira-do-medico-na-otorrinolaringologia
+- Dr. Flávio Cunha rinoplastia Brasília — https://drflaviocunha.com.br/rinoplastia/
+- CFM 2336/2023 — https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2023/2336_2023.pdf
+
+---
+
+### Persona 20 — Dr. Bernardo, o urologista TikToker
+
+**Snapshot.** 41 anos, formado UFRJ 2007, residência urologia HUCFF 2012. Trabalha em consultório próprio em Ipanema (RJ) + sociedade em Centro de Saúde Masculina (4 médicos: ele uro + endocrino + cardio + nutri). Faixa de receita: R$ 80-130 mil/mês (consultório + cirurgia + assinatura TRT recorrente). Casado com administradora (esposa cuida do financeiro pessoal e fora da medicina), 2 filhos (10 e 6). 92k seguidores no Instagram + 380k curtidas no TikTok.
+
+**Rotina de uma terça.** 5h30 acorda. Treino jiu-jitsu 6h-7h30 (academia em Ipanema, faixa-roxa). Café 7h45. 8h30 consultório. Atende 9h-13h (mix consulta + pequeno procedimento ambulatorial — vasectomia 30min). 13h almoço com sócios do Centro de Saúde Masculina (reunião informal). 14h-18h consultório + cirurgia de prótese peniana 1x/semana no hospital. 18h30 grava reel/TikTok (rotina sacralizada). 19h30 jantar família. 21h30 responde DM no Insta. Dorme 23h.
+
+**Vida pessoal.** Casa em Barra (R$ 4,2 mi, condomínio fechado). Carros: Range Rover Sport (dele) + Audi Q3 (dela). Praia em Búzios, casa alugada nos verões. Filhos no Colégio Liessin. Viagem: Disney com filhos, Miami pra congresso AUA (American Urological Association) anual, pesca esportiva no Amazonas/Pantanal com amigos médicos. Roupa: Polo Ralph Lauren, Hugo Boss, Lacoste. Relógio Rolex Datejust (presente dos 40). Religião católico tradicional. Política votou Bolsonaro 2018 e 2022 (família toda). Lê Folha + Veja. Comida tradicional brasileira sem dieta dogmática. Toma TRT (admite abertamente, virou conteúdo).
+
+**Por que abriu (e por que entrou em TikTok).** Saiu de plantão hospitalar em 2016 — cansou. Consultório solo inicial focava em urologia clássica (próstata, pedra, infecção). Em 2020 percebeu que TRT + andrologia + saúde masculina cresceu absurdamente. Entrou no Insta sério em 2021, no TikTok em 2022. Hoje 92k Insta + 380k curtidas TikTok. Conteúdo: "vasectomia desmistificada", "5 sinais que sua testosterona caiu", "prótese peniana — quem precisa", "DE não é fim do mundo".
+
+**Modelo de negócio.** Particular puro 70% + convênio premium 30% (Bradesco Top pra cirurgia maior). Tickets: consulta R$ 600 (Insta vira agendamento), vasectomia consultório R$ 3.500 (cash, 30min), vasectomia hospital R$ 7.500, prótese peniana inflável R$ 65-85k (cirurgia + prótese AMS 700 importada), ondas de choque DE R$ 6.500 pacote 6 sessões, TRT acompanhamento R$ 1.200/mês recorrente (consulta + exame + receita). **Modelo de assinatura TRT é o suco do negócio** — 80 pacientes em recorrência ≈ R$ 96k/mês previsível.
+
+**Como capta.** TikTok + Instagram (50% — paciente envergonhado pesquisa no celular antes de marcar). Indicação clínico geral / cardio / endo (20%). Google "vasectomia preço RJ" (15%). Indicação paciente atual (15%).
+
+**Trauma com marketing.** Pequeno comparado a plástica. Mas teve sustos: em 2023 postou vídeo "TRT te transforma em 60 dias" — recebeu carta do CREMERJ alertando sobre "promessa de resultado". Refez o vídeo. Hoje trabalha com freelancer de conteúdo médico (R$ 3k/mês) + advogado médico revisa peças de risco. Acompanha caso Patrick Rocha como referência negativa fortíssima — "ele virou o que eu não posso ser".
+
+**Medos.**
+1. **Sindicância CREMERJ por TRT.** Endocrino pode denunciar — "uro prescrevendo hormônio sem indicação". Há protocolos do DF restritos. Risco real.
+2. **Anvisa/CFM apertando regulação TRT.** Hoje é off-label. Se vier regulação mais dura, 40% da receita evapora.
+3. **Plataformas de tele-prescrição** (Conexa, Telavita, Recetí) canibalizando paciente que paga R$ 99/mês pra ter receita digital.
+4. **Genéricos de testosterona pós-2026** comoditizando o produto.
+5. **Paciente jovem com complicação de prótese** — caso de fístula peniana / infecção vira processo + Reclame Aqui.
+
+**Desejos.**
+1. **150-200 pacientes TRT em assinatura recorrente** (hoje 80) — pra travar R$ 200k/mês previsível.
+2. **Sub-especialização em medicina sexual (FMSS)** — RQE em andrologia formal.
+3. **Centro de Saúde Masculina virar marca regional** — modelo "Clínica do Homem" mas premium.
+4. **Atender estrangeiros (turismo médico) em prótese peniana** — Brasil é destino latino.
+5. **Filho seguir medicina** (sucessão potencial).
+
+**Crenças.** "Homem ignora a própria saúde por vergonha — quebrar tabu é serviço social + negócio bom". "TRT muda vida do paciente". "Endocrino é puritano com hormônio". "Marketing pra urologia precisa ser educativo + pop". "TikTok é o futuro — Insta tá ficando velho".
+
+**Vocabulário.** "DAEM" (Deficiência Androgênica do Envelhecimento Masculino), "TRT" / "reposição" / "implante hormonal", "DE" (disfunção erétil) / "DEP" (ejaculação precoce), "Peyronie", "PSA" / "biópsia próstata", "RTU" / "Holep" / "prostatectomia robótica", "performance masculina" / "longevidade masculina" / "vitalidade", "particular puro" / "não passamos convênio em cirurgia" / "agora você é paciente nosso pra vida".
+
+**Gatilhos que abrem.** Conteúdo sobre construir assinatura recorrente (TRT). CRM com tracking de paciente recorrente + lembrete de exame trimestral. TikTok/Insta de saúde masculina com viés pop sem perder credibilidade. Tema "como crescer Centro de Saúde Masculina como marca". Caso Marco Túlio Cavalcanti como benchmark.
+
+**Gatilhos que fecham.** Linguagem feminina/lifestyle. Imagem hospitalar institucional. Promessa "X cirurgias/mês" sem entender o ticket de prótese. Comunicação sem entender que paciente uro é envergonhado.
+
+**Variação.** Em SP, perfil idêntico mas Insta/TikTok maior (150-300k). Em capital do NE, perfil similar mas mais conservador. Em cidade média do interior, raro — uro tradicional sem TikTok ainda domina.
+
+**Fontes-base.**
+- Demografia 2025 — uro 96,5% homens — https://www.mantecorpsaude.com.br/paciente/artigos/institucional/demografia-medica-2025
+- Dr. Marco Túlio Cavalcanti (522k curtidas TikTok) — https://www.tiktok.com/@dr.mtcavalcanti
+- Dr. Paulo Egydio prótese peniana — https://drpaulo.com.br/en/
+- "33 homens pra cada mulher na uro" — https://www.terra.com.br/noticias/brasil/33-homens-para-cada-mulher-por-que-urologia-e-especialidade-tao-masculina,e0517d099913d4e1faa049e4b5cae546cdh9my86.html
+- "Tenho vergonha de ir ao urologista" — https://medicourologistasp.com.br/tenho-vergonha-de-ir-ao-urologista-o-que-fazer/
+- TRT off-label Brasil SBEM-SP — https://www.sbemsp.org.br/terapia-com-testosterona-no-brasil-segue-off-label/
+- Cassação Patrick Rocha — https://portal.cfm.org.br/noticias/justica-mantem-decisao-do-cfm-e-do-cremec-contra-medico-que-violava-preceitos-eticos-2/
+- Vasectomia preço — https://emfoco.med.br/vasectomia-particular-valor-o-que-voce-precisa-saber/
+- Prótese peniana preço — https://institutopeyronie.com.br/quanto-custa-protese-peniana-no-brasil-valores-atualizados/
+
+---
+
+### Persona 21 — Dr. Pedro, o médico de longevidade
+
+**Snapshot.** 42 anos, endocrinologista formado USP 2009, residência endocrino HC-USP 2014. Trabalhou 6 anos em hospital + consultório convênio (Albert Einstein parceiro). Saiu em 2022, fundou "Pedro Almeida Longevidade Personalizada" em Pinheiros (SP) — clínica boutique solo + 1 nutricionista PJ + 1 enfermeira parceira pra protocolos. Modelo de assinatura mensal R$ 1.800-3.500/paciente. 60 pacientes ativos = ~R$ 150k/mês. Casado com administradora de family office (ela cuida da gestão financeira pessoal e da clínica), 1 filho (4 anos).
+
+**Rotina de uma terça.** 4h45 acorda. Treino HIIT + zona 2 (Whoop + Oura Ring monitorando). 6h café com whey + ovos + abacate. 7h leitura técnica (Peter Attia newsletter, Andrew Huberman podcasts). 8h30 chega à clínica. 9h-13h atende paciente (consulta longa, 90min cada). Almoço low-carb com a nutri. 14h-18h consultas + exames complementares (HRV, VO2max em parceria com clínica esportiva). 19h jantar família. 21h responde WhatsApp regulado de paciente AAA. Dorme 22h30 (sleep tracking).
+
+**Vida pessoal.** Apartamento 280m² Pinheiros (próprio, R$ 4,5 mi). Carro: Volvo XC60 híbrido. Filho na Beit Yaacov. Viagem: congresso A4M Vegas anual (longevidade), Andrew Huberman Live em SF se aparecer, Europa em low-season. Roupa: discreta (Aramis, Reserva) — perfil "tech low-key", não ostentativo. Religião sem religião explícita, mais "espiritualizado científico" (medita 20min/dia via Calm app). Política votou Lula 2022, centro. Lê pouco livro de ficção; muita newsletter (The Drive Peter Attia, Huberman Lab, Stat News). Comida: low-carb + carnívora moderada + jejum 16/8. Toma TRT (admite só com colegas íntimos). Atletismo: corre 30-40km/semana + força 3x/semana + zona 2.
+
+**Por que abriu.** Saiu de convênio em 2022 porque "medicina de 15 min não cura nada". Influência de Outlive (Peter Attia, lançado em PT pela Intrínseca 2023) foi decisiva — leu 3 vezes. Vinculou-se ao Colégio Brasileiro de Medicina do Estilo de Vida (CBMEV). Modelo: assinatura anual com 4 consultas longas + plantão WhatsApp + protocolos personalizados.
+
+**Modelo de negócio.** Particular puro 100%. Modelo de assinatura: Basic R$ 1.800/mês (4 consultas/ano + protocolo básico), Premium R$ 2.800/mês (8 consultas + exames anuais full), Elite R$ 3.500/mês (12 consultas + IA Maia / time-lapse / acompanhamento mensal). 60 pacientes ativos hoje. Meta: 100 em 2 anos. Receita 100% recorrente. Margem alta (sem CAPEX pesado, sem laser).
+
+**Como capta.** Indicação de paciente atual (60% — paciente AAA indica par AAA). LinkedIn (20% — CEO, VC, founder vendo conteúdo dele). Instagram (15% — 28k seguidores, conteúdo técnico tipo Attia). Podcast (5% — apareceu em Joel Jota, PrimoCast, Brazil Journal).
+
+**Trauma com marketing.** Médio. CFM proíbe terapia antienvelhecimento formalmente desde 2012 (parecer mantido). Em 2023 postou sobre rapamicina off-label — recebeu carta do CREMESP. Refez tudo. Hoje só fala em "medicina 3.0 baseada em evidência", "envelhecer com vitalidade", "redução de fatores de risco" — nunca "antienvelhecimento" ou "TRT pra rejuvenescer". Frase mantra: "evito CFM porque trabalho contra o CFM toda vez que prescrevo".
+
+**Medos.**
+1. **CRM/SBEM abrindo processo ético por TRT off-label** (condenado formalmente).
+2. **Ser confundido com Dr. Lair Ribeiro** ou influencer pseudocientífico — perder respeitabilidade na sociedade médica.
+3. **Paciente que comprou assinatura, não percebeu resultado e processa** por "expectativa frustrada".
+4. **Concorrência de healthtech corporativa** (Alice, Sami) abocanhar clientes premium.
+5. **Não conseguir escalar** — assinatura cara + ofício solo limita teto de receita.
+
+**Desejos.**
+1. **100 pacientes assinatura ativa** (hoje 60).
+2. **Ser citado como referência por Drauzio, Brazil Journal, Joel Jota** — gera fila.
+3. **Equipe multidisciplinar (nutri + fisio + psico) que entrega no lugar dele** parte do protocolo — virar coordenador de cuidado.
+4. **Idade biológica de paciente despencar e virar caso clínico/marketing** (com TCLE).
+5. **Independência total do convênio** (já está — quer manter).
+
+**Crenças.** "Convênio mata medicina boa". "Peter Attia tem razão — Medicina 3.0 é o futuro". "CFM exagera mas tem razão na essência (evidência > marketing)". "Cliente AAA paga porque quer resultado, não porque sou bonzinho". "Bryan Johnson é caricatural mas válido como inspiração".
+
+**Vocabulário.** "Medicina 3.0" (Peter Attia), "Medicina 4P" (Preditiva, Preventiva, Participativa, Personalizada), "idade biológica", "Blueprint", "modulação hormonal", "TRT", "HRT", "peptídeo", "GLP-1", "rapamicina", "NAD+", "biomarcadores", "VO2max", "HRV", "ressonância full body", "DNA", "Smart aging", "envelhecer com vitalidade", "zona 2".
+
+**Gatilhos que abrem.** Caso de médico de longevidade que escalou assinatura sem cassação. CRM com tracking longitudinal de biomarcadores. Funil de aquisição de paciente AAA (LinkedIn → consulta de avaliação → assinatura). Tema "construir autoridade técnica sem virar Lair Ribeiro". Ferramentas de protocolo personalizado (Whoop + Oura + lab integrado).
+
+**Gatilhos que fecham.** Linguagem "antienvelhecimento". Promessa de "rejuvenescer 10 anos". Estética de "guru biohacker" exagerada. Qualquer agência que não saiba do parecer CFM 2012.
+
+**Variação.** No RJ (Leblon, Ipanema), perfil idêntico. Em BH (Lourdes), começando — 2-3 médicos. Em capital menor, ainda quase não existe (mercado embrionário).
+
+**Fontes-base.**
+- CFM proíbe terapia antienvelhecimento 2012 — https://portal.cfm.org.br/noticias/conselho-federal-de-medicina-proibe-o-uso-das-terapias-antienvelhecimento-no-pais/
+- SBEM-SP TRT off-label — https://www.sbemsp.org.br/terapia-com-testosterona-no-brasil-segue-off-label/
+- Outlive Peter Attia Intrínseca — https://intrinseca.com.br/livro/outlive/
+- Longevitar R$ 20mi aporte — https://medicinasa.com.br/medicina-regenerativa-longevitar/
+- CBMEV — https://cbmev.org.br/
+- Bryan Johnson Blueprint R$ 11mi — https://exame.com/negocios/historia-bryan-johnson-idade-biologica-envelhecer-projeto-blueprint/
+- Brazil Journal Attia — https://braziljournal.com/uma-velhice-longa-e-saudavel-comeca-no-dia-a-dia-pergunte-ao-dr-attia/
+- Dr. Patrick Harris VO2max — https://drpatrickharris.com.br/exames-preventivos/vo2-maximo/
+
+---
+
+### Persona 22 — Dra. Beatriz, a geriatra concierge
+
+**Snapshot.** 48 anos, geriatra formada UFRJ 1999, residência geriatria HC-Unicamp 2004. Trabalhou 12 anos em hospital (Albert Einstein) + ambulatório SUS. Saiu em 2018, fundou "Bem Viver Geriatria" — modelo concierge domiciliar. 28 famílias na carteira ativa, ticket médio R$ 1.200/mês por paciente = R$ 33k/mês. Atende eixo Itaim/Jardins/Higienópolis (SP). Solo, com 1 enfermeira parceira PJ + 1 fisio parceira PJ + 1 nutri PJ (estrutura de "cuidado coordenado"). Casada com advogado, 2 filhos (18 e 15 — já adolescentes).
+
+**Rotina de uma terça.** 7h acorda. Café. 8h sai. 9h-13h visita domiciliar (3-4 pacientes idosos no Itaim/Jardins). Almoço em um restaurante perto da próxima visita. 14h-18h mais 3-4 visitas. 19h responde WhatsApp família (plantão). 20h jantar família. 22h leitura (gerontologia, paliativos — Ana Claudia Quintana Arantes é referência declarada). Dorme 22h30.
+
+**Vida pessoal.** Casa em Pinheiros (R$ 3,2 mi, paga). Carros: Volvo XC60 (uso clínico — visita domiciliar). Filhos em Móbile (mais velho indo pra Insper, mais nova ainda no EM). Viagem: Europa cultural (Itália, Espanha, Portugal), África safari em 2024, Patagônia em 2023. Roupa: discreta, sóbria (Animale, Pueri Domus pra esporte). Sem joia ostentativa. Religião católica praticante moderada — vai à missa quando dá. Política votou Lula 2022, centro-esquerda. Lê muito — biografia, ficção, ensaio. Podcast: Ana Claudia Quintana (paliativos), Hora da Mulher, DrauzioCast. Comida tradicional brasileira saudável, vinho fim de semana.
+
+**Por que abriu.** Em 2017 foi diagnosticada com burnout pesado depois de plantão hospitalar + ambulatório SUS + 2 filhos. Decisão tomada após retiro de mindfulness em 2018: "vou fazer geriatria como deve ser feita — visita longa, escuta, coordenação". Influência declarada: movimento Slow Medicine BR. Modelo concierge domiciliar foi orgânico — começou com paciente da família que pediu visita domiciliar e crescemos por indicação.
+
+**Modelo de negócio.** Particular puro 100%. Modelo de assinatura familiar: pacote Mensal R$ 1.200 (1 visita domiciliar + consulta + plantão WhatsApp + coordenação de equipe). Pacote Premium R$ 2.400 (2 visitas + plantão + coordenação + acompanhamento hospitalar quando necessário). Família-tipo: filho (50-60 anos AB+) contrata pra pai/mãe (75-92 anos). Comprador ≠ usuário — vende confiança pro filho.
+
+**Como capta.** Indicação de médico do Einstein/Sírio/Oswaldo Cruz (50% — médicos do hospital indicam quando idoso da família tem alta complexa). Indicação de filho de paciente atual (35% — boca-a-boca premium). LinkedIn (10% — filho CEO que vê post sobre paliativos). Google "geriatra domiciliar SP" (5%). Instagram quase nada (acha que não combina com perfil).
+
+**Trauma com marketing.** Pequeno. Não investe. CFM tem regras de "cobrança recorrente sem ato" que ela cumpre rigorosamente — cada pagamento precisa estar amarrado a visita/consulta efetiva no ciclo. Tem advogado médico que estruturou o contrato.
+
+**Medos.**
+1. **Paciente morre, família cancela assinatura** — alta volatilidade de churn intrínseco ao negócio.
+2. **Esgotamento emocional próprio** — luto recorrente, viu colega geriatra desistir em 2 anos.
+3. **Filho do paciente trocar pela cuidadora mais barata** quando o orçamento aperta.
+4. **CFM apertar regra de honorário por mensalidade sem ato** (Resolução 2.381/2024 já é cinza).
+5. **Não conseguir cobrir geograficamente** — SP é gigante, visita domiciliar não escala.
+
+**Desejos.**
+1. **40-50 famílias premium ativas** (hoje 28).
+2. **Equipe (enfermeira CLT + fisio + psico paliativos) que entrega no lugar dela** parte do protocolo.
+3. **Parceria oficial com Einstein/Sírio** para receber alta hospitalar de idoso AAA.
+4. **Reconhecimento como referência em aging-in-place no Brasil** — palestrar em SBGG, escrever no Estadão.
+5. **Vida pessoal organizada** (vs antiga rotina hospital). É o que ela saiu pra procurar — quer manter.
+
+**Crenças.** "Cuidar de idoso bem é serviço social + negócio sustentável". "Slow medicine é o futuro". "Família AB+ paga pelo cuidado humano que perdeu o tempo de dar". "Médico tem que voltar a escutar". "Convênio destrói geriatria".
+
+**Vocabulário.** "Cuidado centrado na pessoa", "envelhecimento ativo", "aging in place", "longevidade saudável", "fragilidade", "dependência funcional", "polifarmácia", "deprescrição", "cuidados paliativos", "qualidade de vida", "dignidade", "autonomia", "história de vida". "Slow medicine", "humanização sustentável".
+
+**Gatilhos que abrem.** Caso de outra clínica concierge premium de saúde. CRM com prontuário longitudinal + plantão WhatsApp regulado. Tema "como crescer carteira recorrente em concierge". Conteúdo de marketing humanizado, não vendedor.
+
+**Gatilhos que fecham.** Linguagem "agenda lotada", "lead". Promessa numérica. Imagem de "home care popular" (ela é premium). Marketing que entende mal o ciclo de cuidado.
+
+**Variação.** No RJ (Leblon, Lagoa, Barra), perfil idêntico. Em BH (Lourdes), há 2-3 geriatras concierge começando. Em capital menor, mercado ainda quase inexistente.
+
+**Fontes-base.**
+- Escassez de geriatras 1 pra 12.000 — https://futurodasaude.com.br/escassez-de-geriatras-einstein/
+- 32 mi idosos no BR 2022 — https://cenbrap.edu.br/Blog/mercado-da-geriatria-no-brasil
+- Senior Concierge pioneira aging-in-place — https://www.seniorconcierge.com.br/
+- Geriatria em Casa SP — https://www.geriatriaemcasa.com.br/
+- Cuidador de idoso +547% 10 anos — https://exame.com/carreira/cuidador-de-idoso-e-a-ocupacao-que-mais-cresce-no-pais-em-uma-decada/
+- Slow Medicine BR — https://www.slowmedicine.com.br/
+- Resolução CFM 2.381/2024 documentos — https://crmpi.org.br/wp-content/uploads/2024/07/2381_2024.pdf
+- Feminização do envelhecimento — http://www.scielo.br/j/rae/a/9GTWvFfzYFnzHKyBhqGPc4j/?lang=pt
+
+---
+
+### Persona 23 — Dra. Marina, a médica de família concierge
+
+**Snapshot.** 36 anos, médica de família e comunidade formada UFRGS 2014, residência MFC HC-POA 2018. Trabalhou 5 anos em UBS (Estratégia Saúde da Família) + 2 anos como CLT de healthtech (Alice). Saiu em 2024 pra fundar "Marina Cuidado Contínuo" — modelo Direct Primary Care (DPC) ainda pioneiro no Brasil. 32 famílias na carteira, ticket médio R$ 580/família/mês = R$ 18.5k/mês. Solo, com 1 enfermeira PJ que atende junto. Casada com programador (open source contributor + freela), 1 filho de 3 anos.
+
+**Rotina de uma terça.** 6h45 acorda. Café com filho + marido. 7h30 trabalha de home office (responde WhatsApp de pacientes via plataforma própria). 9h-13h atende presencial (sala alugada em coworking médico em Pinheiros — R$ 1.200/mês). Almoço com colega MFC. 14h-17h teleconsulta + visita domiciliar ocasional. 18h busca filho. 20h jantar família. 21h estuda (atualização em MFC, leitura de Slow Medicine, blog AAFP). Dorme 23h.
+
+**Vida pessoal.** Apartamento 95m² Vila Madalena (alugado R$ 4.500). Carro: Honda HR-V. Viagem: dentro do Brasil (Bahia, Floripa, Chapada), Argentina 2024. Europa "ainda não". Roupa: Farm, Animale ocasional, Renner. Religião sem religião declarada, espiritualizada (faz yoga 2x/semana). Política votou Lula 2022, esquerda explícita. Lê Eliane Brum no Twitter, Folha, blog Slow Medicine BR. Podcast: Cidade do Brasil (psicanálise), Maternar (maternidade), DrauzioCast. Comida vegetariana há 6 anos. Vinho ocasional. Sem álcool semana.
+
+**Por que abriu.** Saiu da healthtech Alice porque "estava começando a virar funcionária de plano de saúde reformado". Decisão tomada após ler André Fossa no Medium ("não há ainda players de concierge doctor no Brasil") + Outlive Peter Attia. Inspiração americana: AAFP, DPC Alliance. Modelo: assinatura familiar mensal R$ 400-900 dependendo do tamanho da família, incluindo cuidado contínuo (não só consulta isolada).
+
+**Modelo de negócio.** Particular puro. Modelo de assinatura: Família Solo R$ 400/mês, Família Casal R$ 700/mês, Família com Filho R$ 900/mês, Família Estendida (até 5 pessoas) R$ 1.400/mês. Inclui: consultas presenciais ilimitadas + teleconsulta + WhatsApp regulado horário comercial + coordenação de cuidado (encaminhamento pra especialista + acompanhamento de exames + medicação contínua). Não cobre cirurgia, internação, exames complexos — é só atenção primária. Plataforma própria pra agendamento e teleconsulta (Memed integrado pra assinatura digital de receita).
+
+**Como capta.** LinkedIn (40% — perfil dela tem 18k conexões, posts sobre cuidado contínuo). Indicação de paciente atual (35% — família indica outra família). Instagram (15% — 4k seguidores, conteúdo educativo slow medicine). Google "médico de família concierge SP" (10% — busca crescendo).
+
+**Trauma com marketing.** Pequeno. CFM tem dúvidas sobre o modelo (cobrança recorrente sem ato médico individual é cinza — Res. 2.381/2024). Tem advogado médico que estruturou contrato amarrando assinatura a consultas no ciclo. Sabe que André Fossa apontou "conservadorismo do CFM é risco pra qualquer player".
+
+**Medos.**
+1. **Não atingir massa crítica de famílias** — modelo recorrente precisa de 50+ assinaturas pra fechar bem o ano.
+2. **CFM puxar tapete por "cobrança sem ato"** se a família não usar muito.
+3. **Ser confundida com plano de saúde** (regulação ANS pegar).
+4. **Burnout** — precisa ser disponível mas não ser "amigo do paciente" (limite difícil).
+5. **Healthtechs (Alice, Sami) chegarem com mais grana e força** e abocanharem o mercado nascente.
+
+**Desejos.**
+1. **100-150 famílias pagantes assinatura mensal estável**.
+2. **Equipe multidisciplinar pequena** (enfermeira CLT, psico parceira).
+3. **Narrativa pública de "anti-15 minutos"** / "anti-Dr Consulta" — ser herói da medicina humana.
+4. **Reconhecimento da SBMFC** como referência de DPC no Brasil.
+5. **Migrar paciente classe média alta de operadora pro modelo direto** — provar o ROI da longitudinalidade.
+
+**Crenças.** "Atenção primária forte é o que falta no Brasil". "Cuidado contínuo > episódico". "Slow medicine é o caminho". "Convênio fragmenta cuidado". "Cliente paga pelo vínculo de verdade". "Tecnologia (Memed, plataforma) é amiga, não inimiga".
+
+**Vocabulário.** "Atenção primária", "coordenação do cuidado", "longitudinalidade", "vínculo médico-paciente", "centralidade na pessoa", "abordagem comunitária", "medicina centrada na pessoa", "Slow Medicine", "humanização sustentável", "doing more does not always mean doing better", "Direct Primary Care", "DPC", "membership medicine", "médico da família que conhece você de verdade".
+
+**Gatilhos que abrem.** Caso de DPC americano replicado no Brasil. Plataforma de assinatura familiar + agenda + teleconsulta integrada. CRM com tracking longitudinal de família (histórico geracional). Tema "como crescer carteira DPC sem ser confundido com plano". Caso André Fossa, AAFP, slow medicine. Sebrae Delas Health.
+
+**Gatilhos que fecham.** Promessa de "agenda lotada em 30 dias" (ela quer assinatura recorrente). Linguagem "lead", "funil agressivo", "high ticket coach". Estética masculina/corporativa. Marketing que ignora o conservadorismo do CFM.
+
+**Variação.** Em SP capital, perfil idêntico (ela está lá). Em RJ, perfil quase idêntico mas com 2-3 médicas tentando. Em capital menor (Curitiba, BH, Floripa), está nascendo agora. Em interior, raríssimo (cultura ainda Dr Consulta/Hapvida).
+
+**Fontes-base.**
+- MFC cresceu 549,7% em 13 anos — https://www.medway.com.br/conteudos/cfm-publica-demografia-medica-2024-confira/
+- MFC 59,3% mulheres — https://bvsms.saude.gov.br/bvs/publicacoes/demografia_medica_brasil_2025.pdf
+- André Fossa Concierge Doctor Medium — https://medium.com/@andrefossa/concierge-doctor-surge-o-modelo-de-cl%C3%ADnica-capaz-de-genuinamente-revolucionar-a-aten%C3%A7%C3%A3o-prim%C3%A1ria-a0da60f8dc7f
+- AAFP Direct Primary Care — https://www.aafp.org/about/policies/all/direct-primary-care.html
+- DPC Alliance — https://www.dpcalliance.org/
+- Slow Medicine BR — https://www.slowmedicine.com.br/
+- Alice/Sami healthtechs primária — https://exame.com/negocios/orfaos-dos-planos-de-saude-recorrem-a-healthtechs-que-dobram-no-brasil/
+- Memed assinatura digital — https://blog.memed.com.br/assinatura-digital-receita-medica/
+- Dra. Marise Gomes Médico Concierge BR — https://dramarisegomes.com.br/medico-concierge/
+
+---
+
+### Persona 24 — Dra. Roberta, a médica de FIV
+
+**Snapshot.** 47 anos, ginecologista formada Unifesp 2001, residência GO Unifesp + fellowship em Reprodução Humana no Sírio (2007). Foi assistente da Clínica Huntington 6 anos, saiu em 2013 pra fundar "Roberta Vasconcelos Fertilidade" em SP (Itaim) — sociedade com mais 2 ginecologistas RH + 1 embriologista PhD + 1 sócio investidor (family office da família dela). Centro próprio com laboratório de embriologia certificado. Faturamento clínica R$ 1,8 mi/mês (8 sócios trabalhando). Ela tira R$ 180-280k/mês. Casada com endocrinologista, 1 filho (15 anos, via FIV — fato que ela cita como missão pessoal).
+
+**Rotina de uma terça.** 6h acorda. Yoga em casa 30min. 7h café. 8h chega clínica. 8h30-10h punção folicular (2-3 pacientes em centro próprio, sedação leve). 10h30-13h consulta (paciente nova + retorno). Almoço com sócios (reunião informal). 14h-17h consulta + planejamento de ciclo. 17h-19h administrativo + revisão laboratório com embriologista. 20h jantar marido. 21h responde WhatsApp regulado (paciente em estímulo precisa de orientação). Dorme 23h.
+
+**Vida pessoal.** Apartamento 350m² Jardins (R$ 14 mi, próprio). Casa em Trancoso pra janeiro + Maresias casual. Carros: Volvo XC60 + S60 do marido. Filho na Avenues SP. Viagem: ESHRE anual em capital europeia (Copenhague, Genebra) com marido, Disney 1x quando filho era menor, Europa cultural anual, Maldivas com marido em 2023. Roupa: Le Lis Blanc, Animale, Carolina Herrera (festa). Bolsa LV + Hermès raro. Joias H.Stern. Religião católica não-praticante. Política votou Lula 2022, centro-esquerda urbana. Lê Folha + Valor. Comida moderada, vinho sério (cave familiar). Hobby paralelo: arte contemporânea (família coleciona).
+
+**Por que abriu (e por que casou-se com endocrino).** Ela própria fez FIV em 2009 — não engravidou de primeira, foram 3 tentativas. Esse fato a transformou de gineco geral em "missão fertilidade". Saiu da Huntington em 2013 com 2 colegas + embriologista que ela formou. Família dela (pai empresário) entrou como sócio investidor com R$ 4 mi (laboratório + reforma). Hoje ela é a face clínica + science; sócios geren tudo o resto. Marido endocrino virou parceiro silencioso porque eles atendem mesma paciente AB+ (gineco RH + endo hormonal).
+
+**Modelo de negócio.** 100% particular (nenhum convênio cobre FIV no nível dela). Ticket por ciclo: padrão R$ 38-45k, com PGT-A R$ 55-65k, com doação de óvulo R$ 60-75k. Taxa de sucesso por ciclo até 35 anos: 50%; sobe e cai com idade. Em média 2-3 ciclos por paciente = CLV R$ 90-150k. Congelamento de óvulo (mulher carreira) R$ 18-25k por ciclo + manutenção R$ 1.200/ano. 28 punções/mês entre os 3 sócios médicos.
+
+**Como capta.** Indicação ginecologista geral (40% — Manual FEBRASGO 2023 padroniza encaminhamento). Site SEO + Google (25% — "fertilização in vitro preço São Paulo" é busca quente; portais como Fertilidade.org dominam). Indicação paciente atual (20% — paciente que engravidou indica par). Instagram (15% — 38k seguidores, conteúdo educativo "engravidar depois dos 35", celebra "30 mil bebês nascidos" estilo Huntington). NÃO usa Doctoralia (mercado dela é discreto, paciente AB+ não busca por avaliação).
+
+**Trauma com marketing.** Médio. CFM Res. 2336/2023 é o pesadelo do nicho. Não pode prometer taxa de sucesso ("alcance maior taxa conosco" = infração), nem antes/depois, nem "exclusividade de método". Em 2024 sócio postou sobre "IA Maia para escolha do melhor embrião" — recebeu carta do CREMESP. Refizeram. Hoje tem advogado médico fixo (R$ 6k/mês) que revisa cada peça da clínica.
+
+**Medos (ordem brutal).**
+1. **Erro de laboratório de embriologia** — troca de embriões, biópsia errada, contaminação do meio. Único acidente é capa de jornal e mata a marca.
+2. **Ser absorvida pela consolidação** (Fertgroup XP Asset R$ 200mi, Eugin/Huntington/BuenaVista) e perder autonomia. Ou ficar de fora e perder escala.
+3. **CRM por promessa em post de Instagram** (Res. 2336 é literal).
+4. **Ciclo que não engravida + paciente viralizando no Insta dela** como "drama da infertilidade" — risco reputacional.
+5. **Câmbio** — medicação e meio de cultura dolarizados (>50% do COGS de cada ciclo é dólar).
+
+**Desejos.**
+1. **Sair com cheque de fundo PE** — replicar Vida Bem Vinda/Huntington. Líquido R$ 8-15 mi por sócio é o sonho.
+2. **Centro com IA/time-lapse "best-in-class"** — Huntington tem "IA Maia"; é status profissional desejado.
+3. **Paper aceito em ESHRE** — reputação científica internacional.
+4. **Ginecologista geral da cidade indicando sempre primeiro pra ela** (canal de indicação > Google).
+5. **Eliminar paciente de baixa probabilidade** (>43 anos, FSH alto) para preservar taxa média sem violar CFM (zona cinza ética).
+
+**Crenças.** "FIV não é vaidade — é direito reprodutivo". "Eu fui paciente — sei o que sentem". "Laboratório é o coração do negócio — embriologista é insubstituível". "Consolidação é inevitável — questão é vender bem". "CFM 2336 mata marketing legítimo da reprodução".
+
+**Vocabulário.** "PGT-A" / "PGT-M", "ICSI", "punção" (folicular, com sedação), "estímulo ovariano", "reserva ovariana", "AMH", "FSH", "AFC", "time-lapse" / "EmbryoScope", "transferência fresca" vs "transferência congelada", "coito programado" (low complexity), "cicladas", "bebê em casa" (resultado final = parto, não positivo de β-hCG), "egg-sharing", "DUO", "TR", "βhCG positivo".
+
+**Gatilhos que abrem.** Caso de centro FIV que vendeu por múltiplo alto a PE. CRM com jornada longa (ciclos múltiplos, criopreservação, gravidez, parto, retorno). Ferramenta de jornada emocional + financeira do paciente (FIV é decisão de meses-anos). Tema "como construir marca pessoal científica" (paper, ESHRE).
+
+**Gatilhos que fecham.** Promessa de "taxa de sucesso garantida". Linguagem "agenda lotada". Comunicação sem entender CFM 2336. Imagem genérica de gineco — ela é altíssimo especialista.
+
+**Variação.** No RJ (Botafogo, Barra), perfil quase idêntico (Vida-RJ, Primordia). Em BH (Lourdes), Pró-Criar dominante. Em capital do NE (Recife, Salvador), perfil similar com Geare ou IVI Salvador. Em capital menor, mercado ainda pequeno.
+
+**Fontes-base.**
+- XP Asset R$ 200mi Fertgroup — https://startups.com.br/negocios/xp-asset-investe-r-200-milhoes-em-holding-de-clinicas/
+- Huntington/Eugin/BuenaVista — https://capital-riesgo.es/en/articles/eugin-group-part-of-buenavista-s-portfolio-acquires-brazilian-fertility-clinic-cl-nica-fertilidade-e-vida-through-grupo-huntington/
+- Setor RH cresce 23% ao ano — https://sbra.com.br/noticias/setor-da-reproducao-assistida-devera-crescer-em-media-23-ao-ano-ate-2026/
+- Congelamento embriões +47,5% em 4 anos — https://revistaevolution.com.br/brasil-registra-forte-alta-de-475-no-congelamento-de-embrioes-para-reproducao-assistida%C2%B9/
+- FIV preço Fertilidade.org — https://fertilidade.org/fiv-2026-quanto-custa-por-que-varia/
+- Manual FEBRASGO encaminhamento — https://www.febrasgo.org.br/media/k2/attachments/SerieZ2-2023Z-ZManejo.pdf
+- CFM 2336/2023 — https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2023/2336_2023.pdf
+- Reclame Aqui Fertilidade e Vida — https://www.reclameaqui.com.br/clinica-fertilidade-e-vida/somente-o-dinheiro-vale_ahIbpoAbgZUAZLHt/
+
+---
+
+### Persona 25 — Dr. Vinícius, o endocrino do Ozempic
+
+**Snapshot.** 38 anos, endocrinologista formado UFRJ 2012, residência endocrino HUPE 2017. Trabalhou 4 anos em ambulatório SUS + 2 anos em convênio. Saiu em 2023 pra abrir "Endocrino Med — Foco em Obesidade & Performance". Consultório próprio em Botafogo (RJ) + 1 nutricionista PJ + 1 educadora física PJ. Faturamento R$ 95-150k/mês (consulta + pacote acompanhamento + bioimpedância recorrente). Casado com publicitária (CMO em fintech), sem filhos ainda (planejam em 2-3 anos).
+
+**Rotina de uma terça.** 5h45 acorda. CrossFit 6h-7h15 (academia premium em Botafogo). 7h45 café com whey + ovos. 8h30 chega consultório. 9h-12h30 atende (consultas + retorno + ajuste dose Mounjaro/Ozempic). Almoço low-carb (saladaria fitness). 14h-18h mais consultas + 1h por dia gravando reel/TikTok. 19h grava conteúdo educativo (canal próprio + Insta). 20h jantar com esposa. 21h treino acessório (mobilidade) + leitura técnica. Dorme 22h30.
+
+**Vida pessoal.** Apartamento 130m² Botafogo (alugado R$ 8.500/mês — tá poupando pra comprar). Carro: Audi A3. Viagem: Disney com cunhados, Miami congresso (TOS / ObesityWeek americano), Andes pra esquiar. Roupa: Reserva, Polo, Lacoste. Hobby: triathlon (já fez 70.3 RJ 2024). Religião católico cultural. Política votou Lula 2022 mas conservador moderado economicamente. Lê pouco — consome muito conteúdo médico em redes (Bruno Halpern, Felipe Lemos, Felipe Teixeira). Comida low-carb + jejum 16/8 dogmática. Toma Mounjaro pra manter peso (admite só pra colegas íntimos — "estoque do consultório").
+
+**Por que abriu.** Saiu de convênio em 2023 porque "consulta de obesidade pelo Bradesco paga R$ 95, demora 40min de paciente, não compensa". Boom Ozempic foi o gatilho — paciente chega buscando, ele tem que rodar protocolo sério (não receita imediata). Mercado GLP-1 BR: R$ 11 bi em 2025, projeção R$ 20 bi em 2026 (pós-genérico). Brasil é 2º país que mais pesquisa "Mounjaro/Ozempic" no mundo. Decisão racional.
+
+**Modelo de negócio.** Particular puro 90% + 10% convênio premium (Bradesco Top). Tickets: consulta inicial R$ 800 (60min, anamnese + bioimpedância), Plano 4 meses (4 encontros) R$ 1.530, Plano semestral (6 encontros) R$ 2.160. Caneta GLP-1 vai por fora (paciente compra na drogaria, R$ 1.000-3.000/mês). Bioimpedância semanal em clínica é fidelizador (paciente chega toda terça pra medir). 60 pacientes em acompanhamento ativo = R$ 90k/mês recorrente.
+
+**Como capta.** Instagram (40% — 32k seguidores, conteúdo "5 erros com Mounjaro", "como não perder massa magra no GLP-1"). TikTok (25% — 80k seguidores, conteúdo mais pop). Google Ads "endocrinologista emagrecimento RJ" (15% — CPL alto, R$ 18/lead). Indicação ginecologista/mastologista (15%). Influencer celebridade emagreceu e indicou ele (5% — conexão fofoca-celebridade).
+
+**Trauma com marketing.** Pesado. Em 2024 postou "perca 10 kg em 90 dias com Mounjaro" — recebeu carta do CREMERJ alertando sobre "promessa de resultado". Quase virou sindicância. Refez tudo. Hoje trabalha com freelancer especializado em endocrinologia (R$ 4k/mês) + advogado médico (R$ 3k/mês). **Acompanha cassação do Dr Rocha (Diabetes Controlada) como referência negativa fortíssima** — "ele virou o que eu não posso ser".
+
+**Medos (em ordem brutal).**
+1. **"Virar Dr Rocha"** — sofrer denúncia no CRM por venda de "Programa Emagrecimento Acelerado" que mistura consulta + produto.
+2. **Plataformas de tele-prescrição comoditizando a receita** — paciente paga R$ 99 pra ter receita digital (Conexa, Telavita, Renovareceita) e some.
+3. **Genéricos pós-março/2026** — perda da "ancoragem premium" + briga de preço com farmácia.
+4. **ANVISA endurecer ainda mais a retenção e exigir receita azul/B** (controle psicotrópico) — burocratiza consultório (já RDC 973/2025 + IN 360/2025 endureceu).
+5. **Evento adverso grave** publicado — paciente jovem usando off-label desenvolve pancreatite/gastroparesia, onda regulatória.
+
+**Desejos.**
+1. **Travar paciente em recorrência 6-12 meses** (pacote anti-churn), bioimpedância semanal.
+2. **Vender curso pra outros médicos** ("Formação em Obesidade Moderna") — replicar Felipe Teixeira / IBCMED — sem cair no caso Patrick Rocha.
+3. **Ter linha de suplementos próprios** (whey, multivitamínico, fibra) marca branca.
+4. **Aparecer em mídia tradicional** (CNN Brasil, Exame, Folha) como "o endócrino que comentou Mounjaro".
+5. **Sair com cheque** — endo agregado por healthtech (Liti, plataforma com IA).
+
+**Crenças.** "GLP-1 mudou a medicina da obesidade pra sempre". "Endocrino tradicional é puritano com canetas". "Marketing tem que ser educativo + pop". "TikTok é o futuro — Insta já saturou". "Nutricionista não pode prescrever — ponto" (briga ativa com CRN). "Cliente paga pelo método, não pela canetinha".
+
+**Vocabulário.** "GLP-1", "GIP" (agonistas duplo/triplo), "semaglutida" (Ozempic, Wegovy, Rybelsus), "tirzepatida" (Mounjaro), "liraglutida" (Saxenda/Victoza), "retatrutida" (próxima geração), "off-label" (palavra crítica), "BMI/IMC ≥ 27 com comorbidade", "bioimpedância", "massa magra", "gordura visceral", "TMR", "disforia de saciedade", "estômago lento", "gastroparesia", "manutenção do peso perdido", "sarcopenia", "flacidez secundária", "cabelo em telógeno", "retenção de receita".
+
+**Gatilhos que abrem.** Conteúdo sobre travar paciente em pacote recorrente sem cassação. CRM com tracking de bioimpedância + ajuste de dose + lembrete de retorno. TikTok/Insta de obesidade com viés pop sem perder credibilidade. Tema "criar curso pra médico sem virar Patrick Rocha". Ferramenta de assinatura digital de receita (Memed) integrada.
+
+**Gatilhos que fecham.** Linguagem coach motivacional. Promessa "perca 30 kg em 6 meses". Comunicação que ignora a retenção de receita ANVISA. Imagem de "consultório clássico" (ele é pop).
+
+**Variação.** Em SP capital, perfil idêntico mas Insta/TikTok maior (100-300k). Em Belo Horizonte, perfil similar com tradição cirúrgica bariátrica. Em capital menor, raro — endo tradicional sem TikTok ainda domina.
+
+**Fontes-base.**
+- Mercado GLP-1 R$ 20bi 2026 — https://www.bloomberglinea.com.br/negocios/mercado-de-canetas-emagrecedoras-deve-chegar-a-r-20-bi-no-brasil-com-genericos/
+- Brasil 2º país que pesquisa Ozempic/Mounjaro — https://www.cnnbrasil.com.br/saude/brasil-e-o-segundo-pais-que-mais-pesquisa-por-mounjaro-e-ozempic-no-mundo/
+- Nutrologia +83,3% vagas residência — https://www.medway.com.br/conteudos/as-residencias-medicas-que-tiveram-o-maior-aumento-no-numero-de-vagas-nos-ultimos-5-anos/
+- ANVISA RDC 973/2025 retenção receita — https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2025/entra-em-vigor-norma-que-preve-retencao-de-receita-para-medicamentos-agonistas-glp-1
+- Cassação Patrick Rocha — https://portal.cfm.org.br/noticias/justica-mantem-decisao-do-cfm-e-do-cremec-contra-medico-que-violava-preceitos-eticos-2/
+- Bruno Halpern World Obesity Federation — https://www.instagram.com/drbrunohalpern/
+- Liti R$ 21mi captados — https://exame.com/invest/mercados/xo-projeto-verao-tudo-sobre-a-liti-startup-de-emagrecimento-sem-dieta-que-captou-r-21-mi-em-2022/
+- CRN-5 nutri NÃO pode prescrever — https://crn5.org.br/crn-5-emite-parecer-sobre-prescricao-de-medicamentos-e-hormonios-pelos-nutricionistas/
+
+---
+
+### Persona 26 — Dra. Helena, a pediatra Instagram-mãe
+
+**Snapshot.** 39 anos, pediatra formada Unifesp 2010, residência pediatria HSP/Unifesp 2014, pós em puericultura + intro alimentar (BLW). Trabalhou 6 anos em hospital + consultório de convênio (atendia 20 pacientes/dia, ganhava R$ 9k). Saiu em 2020 (pandemia + 2ª filha) pra consultório particular em Pinheiros (SP). Faturamento R$ 42-58k/mês. 78k seguidores no Instagram (@pediatra.helena), perfil "pediatra integrativa + mãe". Casada com pneumologista (também consultório próprio, perfil similar), 2 filhas (10 e 6).
+
+**Rotina de uma terça.** 6h45 acorda. Café família. Leva filhas pra escola (Móbile) 7h45. Yoga 8h-9h (estúdio Pinheiros). 9h30 chega consultório. Atende 10h-13h (4 pacientes — primeira consulta 1h, retorno 40min). Almoço com colega pediatra (rede de mães-pediatras de Pinheiros). 14h-18h mais 4-5 atendimentos. 18h responde WhatsApp regulado de mães (até as 19h, depois bloqueia). 19h busca filhas. 20h30 jantar família. 21h grava reel/conteúdo. 22h leitura (Mari Rios, Sâmia Marsili, livros de sono). Dorme 23h.
+
+**Vida pessoal.** Apartamento 180m² Pinheiros (R$ 4 mi, financiado 40%). Carros: Honda HRV (dela) + Volvo XC60 (dele). Filhas no Móbile. Viagem: Disney bienal, Europa anual (Itália, Portugal), praia em Itacaré (Bahia) tradicional. Roupa: Animale, Farm, Le Lis Blanc, Zara. Religião católica não-praticante. Política: votou Lula 2022, identifica-se como centro (não esquerda dura — "mãe de classe média alta com bom senso"). Lê livros de maternidade, sono, autismo. Podcast: Maternar, Mãe é mãe, Sâmia Marsili (consome mas critica). Comida: BLW pra filhas, equilibrada pra ela, vinho fim de semana, sem álcool semana.
+
+**Por que abriu.** Saiu do convênio em 2020 com 2ª filha. Combinação: cansaço de 20 pacientes/dia + culpa materna + pandemia. Decisão tomada com o marido (que também migrou de hospital pra consultório). Investiu R$ 80k em sala (sublocação em coworking médico) + Insta (freelance de social). Inspiração explícita: Sâmia Marsili (2 mi seguidores) E Mari Rios (299k) — quer estar entre as duas, sem ser tão conservadora quanto Sâmia, nem tão progressista quanto Mari. "Pediatra integrativa que conversa com a mãe de classe AB+".
+
+**Modelo de negócio.** 100% particular. Tickets: consulta primeira R$ 580 (60min), retorno R$ 380, pacote anual de puericultura R$ 4.200 (7 consultas + WhatsApp regulado + 1 visita domiciliar pós-parto), curso digital "Sono Tranquilo do 0 aos 2 anos" R$ 497 (lançado em 2024, 800 vendas até agora = R$ 397k bruto). **Curso digital virou 30% da receita anual.** Faturamento mensal: consulta (R$ 28k) + pacote (R$ 15k) + curso (proporção mensal ~R$ 10k).
+
+**Como capta.** Instagram (50% — 78k seguidores, conteúdo "rotina pediatra mãe", BLW, sono, autismo, integrativa). Indicação de gineco/obstetra (25%). Indicação mãe-pra-mãe (boca-a-boca WhatsApp do prédio/escola) (20%). Doctoralia (5%, mantém pelo SEO).
+
+**Trauma com marketing.** Médio. CFM 2336/2023 proíbe imagem de paciente menor mesmo com autorização dos pais "em caso de captação de clientela". Em 2023 postou storie com bebê de paciente (autorizado mãe) — recebeu DM raivosa de outra paciente, quase virou sindicância. Refez política: nunca paciente identificável, só ilustrações ou ela própria. Tem freelancer de conteúdo (R$ 2.500/mês). Acompanha o caso Patrick Rocha como referência.
+
+**Medos.**
+1. **Ser processada por evento adverso** — judicialização da pediatria explodiu (663.864 novos processos saúde em 2024, +16,8% vs 2023; tratamento médico lidera com 157k ações). Pediatria "evento adverso expõe a julgamentos rígidos por pais aflitos".
+2. **WhatsApp 24/7 destruir saúde mental** — burnout silencioso (Whatsapp regulado até 19h ajuda mas mãe ansiosa testa limite).
+3. **Perder pacientes pra plataformas de telemedicina pediátrica** (Dr Consulta, Sami, Alice) cobrando R$ 39.
+4. **Mãe antivacina** virando caso na imprensa após criança internar de varicela/sarampo (vacinação caiu desde 2015).
+5. **Não conseguir cobrar o que vale** — dermato/cir.plástico ganha 3-5x mais com mesma carga.
+
+**Desejos.**
+1. **Clínica multiprofissional integrada** (pediatra + fono + TO + psico + nutri) com pacote anual — virar "casa de saúde" da família AB+ (modelo Mari Rios escalado).
+2. **Posicionar como autoridade de nicho** — escolheu "sono + BLW + autismo precoce" — e cobrar premium pelo nicho.
+3. **Curso digital escalando** (replicar Mari Rios — "Como é que Dorme Bem" no Hotmart) — diversificar de consulta avulsa.
+4. **Comunidade fechada de mães** (Telegram VIP, grupo WhatsApp pago — "Clube da Pediatra Helena").
+5. **Nunca mais plantão de hospital** — vida com filhas, jantar em casa.
+
+**Crenças.** "Pediatra particular constrói relação de 18 anos com a família — LTV gigante". "WhatsApp regulado é necessário mas tem que ter limite". "BLW e sono respeitoso são ciência, não modismo". "Sâmia Marsili exagera no conservadorismo, Mari Rios na neurodivergência — eu fico no meio". "Curso digital é o futuro — consulta 1:1 cansa pra sempre".
+
+**Vocabulário.** "Puericultura", "BLW" (Baby-Led Weaning), "M-CHAT-R" (triagem autismo 16-30 meses), "TEA", "TDAH", "TPS" (Transtorno Processamento Sensorial), "DPAC" (Distúrbio Processamento Auditivo Central), "sono respeitoso" vs "método Estivill", "apego seguro", "regulação emocional", "neurodivergência", "janelas de sono", "transições de sono", "APLV" (alergia proteína leite vaca), "anquiloglossia" (língua presa), "curva de crescimento OMS", "pediatra do desenvolvimento".
+
+**Gatilhos que abrem.** Caso de pediatra-mãe-Instagram que escalou. Funil: lead magnet (ebook BLW gratuito) → curso → consulta presencial → pacote anual. CRM com tracking de família por anos (irmão entra, pediatra retém). Sebrae Delas Health. Caso Mari Rios como benchmark.
+
+**Gatilhos que fecham.** Promessa de "agenda lotada". Imagem de criança identificável em campanha. Linguagem coach. Marketing que ignora CFM 2336 sobre imagem de menor.
+
+**Variação.** No RJ (Leblon, Lagoa), perfil idêntico mas com perfil mais conservador-família (mais perto de Sâmia). Em BH, perfil similar. Em capital menor, perfil é menos "integrativa" e mais clássica.
+
+**Fontes-base.**
+- Sâmia Marsili 2mi seguidores — https://www.instagram.com/samiamarsili/
+- Mari Rios @umamaepediatra 299k — https://www.instagram.com/umamaepediatra/
+- Hotmart Mari Rios curso — https://hotmart.com/pt-br/marketplace/produtos/como-e-que-dorme/H60253931H
+- Pediatra 76,8% mulheres — https://bvsms.saude.gov.br/bvs/publicacoes/demografia_medica_brasil_2025.pdf
+- Pediatria em crise Cebes — https://cebes.org.br/o-abandono-da-pediatria/1794/
+- Judicialização medicina 2024 +16,8% — https://www.migalhas.com.br/coluna/migalhas-securitarias/438609/judicializacao-da-medicina-e-responsabilidade-profissional-na-saude
+- Boom autismo 1 em 31 crianças — https://institutoinclusaobrasil.com.br/aumento-exponencial-de-casos-de-autismo-no-mundo/
+- Consulta pediatra SP R$ 450-700 — https://drapaulaped.com.br/blog/quanto-custa-consulta-pediatra-particular-sp
+
+---
+
+### Persona 27 — Paula, a fonoaudióloga de ABA
+
+**Snapshot.** 34 anos, fonoaudióloga formada PUC-SP 2014, especialização em ABA + comunicação alternativa (PECS). Trabalhou 4 anos em escola especial CLT + 3 anos como PJ na Genial Care. Saiu em 2023, fundou "Paula Fono ABA" em Pinheiros (SP). Estrutura: 2 salas (sublocação em coworking de terapia infantil — divide com TO e psicopedagoga). 1 estagiária + 1 terapeuta auxiliar. Faturamento R$ 28-38k/mês. Atende quase 100% crianças com TEA. Casada com analista de dados, sem filhos.
+
+**Rotina de uma terça.** 7h acorda. Yoga 30min. 8h café. 8h45 chega ao espaço. Atende 9h-13h (4 crianças TEA, sessões de 50min). Almoço com TO parceira (planejam casos juntas). 14h-18h mais 4 sessões. 18h-19h reunião com pai/mãe de paciente novo (avaliação inicial). 20h volta pra casa. 21h estuda (PECS, ABA, integração sensorial — supervisora externa cobra R$ 350/h, paga 2h/mês). Dorme 23h.
+
+**Vida pessoal.** Apartamento 80m² Pinheiros (alugado R$ 4.200). Carro: Honda Fit. Viagem: dentro do Brasil principalmente — Floripa, Bahia, Chapada. Europa "ainda não" (poupança pra 2026). Roupa: Renner, Hering, Animale ocasional. Religião sem religião declarada, espiritualizada (faz ThetaHealing — moda no nicho terapia infantil). Política votou Lula 2022, esquerda urbana. Lê livros de autismo, neuropsicologia, Temple Grandin. Podcast: Mães Atípicas, A Casa, Eu Sou Atípico. Comida tradicional + leve. Vinho social.
+
+**Por que abriu.** Saiu da Genial Care (170+ profissionais, modelo PJ obrigatório, atende só crianças até 7a11m) cansada da "esteira" (12 crianças/semana, salas pequenas, supervisão fraca). Decisão: abrir espaço menor com qualidade. Inspiração: Clínica Formare, Equipe ABA, Clínica Interação. Investimento inicial R$ 35k (mobiliário ABA, materiais PECS, capital giro). Boom autismo é o vetor: 1 em cada 31 crianças no espectro (vs 1 em 54 em 2020).
+
+**Modelo de negócio.** 70% particular (pacote mensal R$ 4.500-7.500 com 3-4 sessões/semana = atendimento intensivo) + 30% paciente com liminar judicial contra plano (ABA é judicializado, plano paga via liminar). Avaliação inicial particular R$ 850. Modelo "intensivo precoce" (criança 2-5 anos) é o ouro — família paga porque sabe que a janela é curta.
+
+**Como capta.** Indicação pediatra/neuropediatra (60% — pediatra que fez triagem M-CHAT-R encaminha). Grupo de pais de TEA no Facebook (20% — mãe atípica indica colega). Instagram (15% — 9k seguidores, conteúdo educativo "5 sinais de TEA antes dos 2 anos"). Site SEO (5%).
+
+**Trauma com marketing.** Pequeno mas crescendo. **Resolução CFFa 756/2024 (Guia de Conduta Ética nas Mídias Sociais)** entrou em vigor janeiro/2025 — é endurecimento recente. Obrigatório identificação (nome + CREFONO + região) em TODO post, inclusive live. Proibido ensinar procedimento. Em fev/2025 postou vídeo demonstrando exercício oromotor — recebeu DM anônima ameaçando denunciar ao CREFONO-2. Refez tudo.
+
+**Medos.**
+1. **CREFONO denunciando** por post sem identificação ou por ensinar procedimento (Res. 756/2024).
+2. **Genial Care / rede grande engolindo o mercado** com escala (170 profissionais, 7 clínicas em SP).
+3. **Pediatra parceira mudar de cidade** — dependente de 2-3 fontes de indicação.
+4. **Liminar do plano cair** — paciente com liminar é 30% da receita.
+5. **Burnout** — atender criança TEA é emocionalmente pesado (família ansiosa, progresso lento, expectativa).
+
+**Desejos.**
+1. **Faturar R$ 60k/mês** com mesma estrutura + 1 fono CLT.
+2. **Pós-graduação avançada em ABA (BCBA)** — certificação internacional valoriza muito.
+3. **Curso digital pra outras fonos** ("Como Construir Clínica ABA Sem Virar Genial Care") — renda passiva.
+4. **Sair da sublocação** e ter clínica de 4 salas.
+5. **Engravidar em 2-3 anos**.
+
+**Crenças.** "ABA salva vida — fica chocada com fono que faz só fonoaudiologia clássica". "Genial Care é Smart Fit do autismo — eu sou boutique". "CREFONO é necessário mas exagera às vezes". "Mãe atípica é a base do meu negócio — boca-a-boca delas é tudo". "Liminar é direito da família".
+
+**Vocabulário.** "Triagem", "anamnese", "TEA" (não "autista"), "ABA", "AT" (acompanhante terapêutico), "PEI" (plano educacional individualizado), "PECS" (Picture Exchange Communication System), "atraso de fala", "linguagem expressiva vs receptiva", "miofuncional", "intervenção precoce", "janelas de desenvolvimento", "DPS" (Distúrbio Processamento Sensorial), "comportamento operante", "reforçador", "extinção", "shaping", "DTT" (Discrete Trial Training).
+
+**Gatilhos que abrem.** Caso de fono que escalou clínica ABA sem virar rede. CRM com tracking de evolução longitudinal de criança TEA (mães amam ver). Funil que respeita Res. CFFa 756/2024. Tema "como crescer carteira de ABA particular sem depender de liminar". Conteúdo de Sebrae Delas Health.
+
+**Gatilhos que fecham.** Promessa de "agenda lotada". Linguagem corporativa de rede grande. Imagem de criança identificável (proibido). Marketing que ignora a CFFa.
+
+**Variação.** Em SP capital, perfil idêntico. Em RJ, Genial Care não existe, espaço maior pra clínicas independentes. Em capital menor, fila gigante (escassez de fono especializada em TEA). Em interior, raríssima — mãe atípica viaja semanal pra capital.
+
+**Fontes-base.**
+- Resolução CFFa 756/2024 publicidade — https://www.legisweb.com.br/legislacao/?id=472536
+- Guia CFFa mídias sociais — https://fonoaudiologia.org.br/comunicacao/guia-de-conduta-etica-do-fonoaudiologo-nas-midias-sociais/
+- Custo terapia ABA R$ 3-30k/mês — https://www.jusbrasil.com.br/artigos/terapia-aba-para-autista-e-o-dever-de-cobertura-pelo-plano-de-saude/1317984694
+- Genial Care 170 profissionais — https://genialcare.com.br/conheca-a-genial-care/
+- Fono 88-95% mulheres — https://www.semesp.org.br/mais-pesquisas/2023/03/08/participacao-das-mulheres-nas-matriculas-de-graduacao-sobe-25-na-ultima-decada/
+- Boom autismo 1 em 31 — https://institutoinclusaobrasil.com.br/aumento-exponencial-de-casos-de-autismo-no-mundo/
+- Equipe ABA — https://www.equipeaba.com.br/fonoaudiologia-autismo
+- Clínica Formare — https://www.clinicaformare.com.br/
+
+---
+
+### Persona 28 — Renata, a terapeuta ocupacional do espectro
+
+**Snapshot.** 31 anos, terapeuta ocupacional formada USP 2017, pós em integração sensorial (Ayres SI Certified). Trabalhou 3 anos em CAPS (CLT R$ 3.200) + 2 anos em escola especial. Saiu em 2023, abriu "Renata TO Integração Sensorial" em Vila Madalena (SP). Sublocação em coworking de terapia infantil — mesmo espaço da Paula (Persona 27). Faturamento R$ 18-26k/mês. Solo, sem equipe. Solteira, sem filhos, mora com mãe (viúva).
+
+**Rotina de uma terça.** 7h30 acorda. Café com a mãe. 8h45 chega ao espaço. 9h-13h atende (3 crianças, sessões de 50min com integração sensorial — pula, balança, brinca em ambiente sensorial estruturado). Almoço com Paula (planejam casos juntas — Paula faz fono, Renata faz TO; mesma criança TEA recebe ambas). 14h-18h mais 4 sessões. 18h-19h supervisão de casos com mentora externa (R$ 280/h, 1h/mês). 20h volta pra casa. 22h leitura (Ayres, ABA + SI). Dorme 23h.
+
+**Vida pessoal.** Mora com mãe em Vila Madalena (casa antiga, sem aluguel). Carro: HB20 da mãe (compartilha). Viagem: dentro do Brasil (Floripa, Bahia, Argentina 2024). Roupa: Renner, Hering, Animale ocasional. Religião sem religião explícita, espiritualizada (faz constelação familiar). Política votou Lula 2022, esquerda urbana militante. Lê Daniel Dennett, Temple Grandin, livros de neurodiversidade. Podcast: Eu Sou Atípico, Mães Atípicas, AnsiedadeCast. Comida vegetariana há 5 anos. Sem álcool semana.
+
+**Por que abriu.** Saiu do CAPS porque CLT TO ganha R$ 2.500-4.500 (piso) — humilhante. Decisão tomada em 2022 após pesquisa SciELO confirmar que mediana TO em SP é R$ 5.867 (vs piso R$ 2.382). Inspiração: Paula (Persona 27 — fono ABA) que já tinha clínica. Modelo paralelo. PL 1731 no Congresso quer fixar piso R$ 4.800 pra fisio e TO — sinal de que categoria recebe menos. **TO não pode ser MEI** (só Simples Nacional) — empurra pra Simples obrigatoriamente.
+
+**Modelo de negócio.** Modelo dividido: 60% particular (pacote mensal 2-3 sessões/semana R$ 1.800-3.000) + 40% liminar contra plano. Avaliação inicial R$ 580. Foco em TEA + integração sensorial — não atende terapia da mão / mão ortopédica (poderia, mas perdeu foco). 18 crianças em atendimento ativo.
+
+**Como capta.** Indicação pediatra (50%). Indicação Paula (a fono parceira do espaço, 25% — cross-sell natural). Instagram (15% — 5k seguidores, conteúdo "TO no autismo"). Grupo de mães atípicas (10%).
+
+**Trauma com marketing.** Médio. Resolução COFFITO 532/2021 + Código TO (Res. 425/2013) regulam publicidade. Proibido divulgar tabela de preço fora do consultório. Em 2024 postou "tabela de pacotes" no Stories — recebeu DM anônima ameaçando CREFITO-3. Refez.
+
+**Medos.**
+1. **CREFITO multando** por post sem TCLE de criança ou divulgação de preço.
+2. **TO confundindo com fisio** ("ah, mas fisioterapia também faz isso") — fila de explicação.
+3. **Genial Care / rede grande englobando tudo** (fono + TO + psico + nutri pediátrica) — concorrência institucional.
+4. **Não ter como crescer sem virar gestora** — TO solo tem teto baixo.
+5. **Liminar plano caindo** — depende muito.
+
+**Desejos.**
+1. **Nicho identificado** (TEA + sensorial — já tem, quer fortalecer).
+2. **Subir ticket** (saída de R$ 1.800 pra R$ 2.500/mês).
+3. **Formar equipe pequena** (1 TO CLT + 1 estagiária).
+4. **Reconhecimento profissional fora do guarda-chuva da fisio**.
+5. **Curso digital sobre integração sensorial** (renda passiva).
+
+**Crenças.** "TO é a especialidade mais subvalorizada da saúde". "Integração sensorial é ciência, não brincadeira". "Mãe atípica precisa de equipe coordenada, não de profissional isolado". "Genial Care comoditiza o cuidado". "COFFITO trata TO como apêndice da fisio — é injusto".
+
+**Vocabulário.** "AVDs" (Atividades de Vida Diária), "AVPs" (Atividades Vida Prática), "integração sensorial", "perfil sensorial", "estimulação multissensorial", "TEACCH", "Modelo Canadense", "MOH" (Modelo de Ocupação Humana), "PEDI", "performance ocupacional", "praxia", "disfunção sensorial", "modulação sensorial", "ABLLS-R", "VB-MAPP".
+
+**Gatilhos que abrem.** Caso de TO solo que escalou sem virar Genial. CRM com prontuário longitudinal (PEDI, ABLLS-R). Funil com lead magnet ("5 sinais de TPS em criança"). Parceria com fono/psicopedagoga. Tema "como ser TO independente sem virar funcionária de rede".
+
+**Gatilhos que fecham.** Linguagem genérica "saúde". Promessa numérica. Imagem de fisio (confunde). Marketing sem entender que TO é regulamentado pelo COFFITO mas é profissão própria.
+
+**Variação.** Em SP capital, perfil idêntico. Em RJ, sem Genial Care, mais espaço pra solo. Em interior, raríssima. No NE, perfil similar mas com 1-2 sócias.
+
+**Fontes-base.**
+- TO 80%+ mulheres — https://www.scielo.br/j/hcsm/a/9j9DJBWFMBSQqNndBN8hQgk/
+- Salário TO SP R$ 5.867 mediano — https://www.salario.com.br/profissao/terapeuta-ocupacional-cbo-223905/sao-paulo-sp/
+- Piso TO PL 4.800 — https://www.camara.leg.br/noticias/993877-COMISSAO-APROVA-PROJETO-QUE-ESTIPULA-PISO-DE-R-4.800-PARA-FISIOTERAPEUTAS-E-TERAPEUTAS-OCUPACIONAIS
+- COFFITO 532/2021 publicidade — https://www.crefito3.org.br/dsn/pdfs/acervo-publicacoes/2024/boas-praticas-de-publicidade-na-fisioterapia-e-na-terapia-ocupacional.pdf
+- TO no autismo CREFITO-12 — https://crefito12.org.br/o-papel-do-terapeuta-ocupacional-no-tratamento-do-autismo/
+- Boom autismo 1 em 31 — https://institutoinclusaobrasil.com.br/aumento-exponencial-de-casos-de-autismo-no-mundo/
+- TO não pode ser MEI — https://gestaodeclinicas.ajmed.com.br/como-abrir-uma-clinica-de-terapia-ocupacional/
+
+---
+
+### Persona 29 — Pablo, o quiropraxista bacharel
+
+**Snapshot.** 32 anos, bacharel em quiropraxia pela Anhembi Morumbi 2019 (4 anos de curso, padrão OMS, reconhecido pelo MEC). Trabalhou 2 anos em rede grande (Ajustar Clínica) — saiu insatisfeito com modelo de contrato longo + sessão de 5 minutos. Abriu "Pablo Quiropraxia" em Pinheiros (SP) — sala em coworking wellness, 2 macas, 1 secretária CLT. Faturamento R$ 22-32k/mês. Solo. Casado com personal trainer, sem filhos.
+
+**Rotina de uma terça.** 6h acorda. Crossfit 6h30-8h. Café. 9h chega à clínica. Atende 9h30-13h (5-6 sessões, 30min cada — "ajuste" + alongamento). Almoço fitness. 14h-19h mais 6-8 sessões. 19h grava conteúdo Insta/TikTok ("5 ajustes pra dor lombar"). 20h jantar com esposa. 22h estuda (técnicas: Diversified, Gonstead, Activator). Dorme 23h.
+
+**Vida pessoal.** Apartamento 60m² Vila Madalena (alugado R$ 3.500). Carro: Honda Civic usado. Viagem: dentro do Brasil (Floripa, Maresias surfar). Roupa: Lululemon, Nike, Adidas — perfil fitness premium. Religião sem religião. Política identifica-se como "centro liberal". Lê pouco — consome muito conteúdo wellness em redes. Podcast: Joel Jota, PrimoCast, Andrew Huberman (em inglês), Tim Ferriss. Comida low-carb pragmática. Sem álcool semana.
+
+**Por que abriu.** Saiu da rede Ajustar em 2021 cansado do modelo "contrato 12 meses obrigatório + sessão de 5 minutos + foco em volume". Quis abrir clínica com sessão de 30-40min e relação real. Investimento inicial R$ 35k. Sem conselho próprio — quiropraxia NÃO é regulamentada no Brasil ainda (PL 599/2011 e 1.436/11 tramitam há mais de uma década). Limbo regulatório é o tema da vida dele.
+
+**Modelo de negócio.** Particular puro. Tickets: sessão avulsa R$ 220, pacote 10 sessões R$ 1.890 (15% desconto), pacote mensal recorrente (4 sessões) R$ 720. Cliente típico: corredor, atleta amador, executivo com dor lombar, mãe pós-parto. 60 clientes recorrência ≈ R$ 22k/mês previsível.
+
+**Como capta.** Instagram (45% — 12k seguidores). TikTok (15% — 3k, começando). Indicação cliente atual (30%). Google "quiropraxia Pinheiros SP" (10%). **Não tem conselho próprio fiscalizando publicidade — usa promessas mais agressivas que fisio/médico** (mas com cuidado).
+
+**Trauma com marketing.** Pequeno mas crescendo. Em 2023 postou "soluciono dor lombar em 3 sessões" — recebeu DM de fisio acusando "exercício ilegal da fisioterapia". Não virou processo porque TRF-3 já decidiu (6ª Turma) que **CREFITO-3 NÃO pode fiscalizar quiropraxista bacharel** — vitória da ABQ. Mas o estresse foi real. Tem advogado meio-período.
+
+**Medos (ordem brutal).**
+1. **Mudança regulatória** — se PL passar restringindo escopo, perde direito de atuar.
+2. **Processo do CREFITO** alegando exercício ilegal da fisioterapia (mesmo com decisões TRF a favor).
+3. **Reclame Aqui** — viu o caso Ajustar (3.6/10, 50 reclamações, padrão "contrato longo + sessão 5min + propaganda enganosa") e tem terror de reproduzir.
+4. **Médico ortopedista descreditando** ("isso não tem evidência") — paciente médico desconfia.
+5. **Recém-formado da Anhembi quer crescer rápido = pressão preço baixo + promessa** — comoditiza o nicho.
+
+**Desejos.**
+1. **Regulamentação aprovada** (PL 599/2011) — ABQ luta há 14 anos.
+2. **Conselho próprio** (independente de CREFITO/CRM).
+3. **Ser reconhecido como profissão de saúde** (não como "alternativa").
+4. **Convênio cobrindo quiropraxia** (algumas operadoras já cobrem em planos premium).
+5. **Marketing sem medo de processo** — virar referência regional sem virar @queroquiropraxia (481k seguidores mas 3.6/10 no Reclame).
+
+**Crenças.** "Quiropraxia é ciência reconhecida em 70+ países — Brasil é exceção". "Fisio quer monopólio injusto". "ABQ vai vencer eventualmente". "Marketing agressivo do QueroQuiro destruiu reputação do nicho". "Ortopedista é o inimigo cultural".
+
+**Vocabulário.** "Ajuste", "subluxação vertebral", "manipulação articular", "técnica de Diversified", "Gonstead", "Activator", "drop", "Thompson", "SOT", "rolagem cervical", "audible release" (estalo), "tração", "descompressão", "biomecânica", "pelve neutra", "core estabilizador".
+
+**Gatilhos que abrem.** Caso de quiropraxista solo que cresceu sem virar QueroQuiro. CRM com tracking de pacote recorrente + lembrete de sessão. Conteúdo de marketing wellness (Joel Jota) — público é atleta amador. Tema "como crescer sem cair em armadilha de contrato longo".
+
+**Gatilhos que fecham.** Linguagem "alternativa". Imagem de fisio (confunde). Promessa "solucionar X". Marketing que ignora a guerra regulatória CREFITO-ABQ.
+
+**Variação.** Em SP capital, perfil idêntico. No RJ, similar. Em capital menor, raríssimo (Anhembi é a única do Sudeste; FEEVALE no Sul). Em interior, quase não existe quiro bacharel.
+
+**Fontes-base.**
+- Quiropraxia não regulamentada — https://www.abquiro.org.br/regulamentaquiro
+- PL 599/2011 — https://www.abquiro.org.br/pls-599-2011-que-regulamenta-a-quiropraxia-no-brasil
+- TRF-3 CREFITO não fiscaliza — https://www.coffito.gov.br/nsite/?p=17672
+- Anhembi Bacharelado Quiropraxia — https://portal.anhembi.br/cursos/graduacao/quiropraxia-bacharelado/
+- COFFITO Quiropraxia é especialidade fisio — https://www.crefito15.org.br/coffito-defende-que-quiropraxia-e-uma-especialidade-da-fisioterapia/
+- QueroQuiropraxia 481k Insta — https://www.instagram.com/queroquiropraxia/
+- Ajustar Clínica RA 3.6/10 — https://www.reclameaqui.com.br/empresa/ajustar-clinica-de-quiropraxia/lista-reclamacoes/
+- Preço sessão SP — https://spagenda.com/artigo/preco-sessao-quiropraxia
+
+---
+
+### Persona 30 — Juliana, a enfermeira esteta
+
+**Snapshot.** 35 anos, enfermeira formada UNINOVE 2012, pós em enfermagem estética (UNASP 2020 — pós-graduação reconhecida pelo MEC, 100h supervisionadas COFEN). Trabalhou 8 anos em UTI noturna (CLT R$ 4.500-5.500 — frequentemente abaixo do piso de R$ 4.750). Saiu em 2022 pra abrir "Juliana Stetic" em Moema (SP). Estrutura: 1 sala + 1 recepção em sublocação. Faturamento R$ 18-26k/mês. Casada com técnico em segurança do trabalho, 1 filho de 7 anos.
+
+**Rotina de uma terça.** 7h acorda. Leva filho na escola. 9h chega clínica. 9h30-13h atende (3-4 clientes — botox/preenchimento/skinbooster). Almoço rápido. 14h-18h mais 4-5 clientes (sub-nicho: drenagem linfática pós-cirúrgica + microagulhamento). 18h30 grava Insta (ela própria como modelo de procedimento). 19h busca filho. 20h jantar família. 22h estuda novos produtos (Allergan Academy, Galderma cursos). Dorme 23h.
+
+**Vida pessoal.** Apartamento 80m² Moema (alugado R$ 4.800). Carro: HRV (financiado). Viagem: Disney com filho 1x, Argentina, dentro do Brasil. Roupa: Animale, Schutz (sapato), maquiagem premium (MAC, Dior). Religião católica praticante. Política votou Bolsonaro 2022 (família). Lê pouco — consome muito Instagram + cursos de estética. Comida: low-carb periodizada. Toma Mounjaro pra manter peso (1mg/semana, off-label). Hobby: maquiagem + skincare elaborada.
+
+**Por que abriu.** Saiu da UTI em 2022 porque "plantão noturno de 12h destrói o corpo + ganho menos que o piso". UTI custava casamento. Pós em estética em 2020 abriu porta. Decisão difícil — CFM brigou em 2024 com Res. 2.416/2024 querendo restringir botox ao médico, mas **COFEN Res. 715/2023** manteve aplicação como atribuição de enfermeiro com pós (100h supervisionadas). Mercado em boom.
+
+**Modelo de negócio.** 100% particular. Tickets: botox R$ 1.400 (full face), preenchimento labial R$ 1.400, skinbooster R$ 1.100, microagulhamento R$ 380, drenagem linfática pós-op R$ 280/sessão, harmonização facial pacote R$ 6-12k (3 sessões). Recém-formada inicialmente ganha R$ 3-5k/mês; empreendedora estabilizada R$ 15-25k/mês. **Ela está chegando lá.**
+
+**Como capta.** Instagram (60% — 14k seguidores, antes/depois com TCLE, ela própria como modelo). Indicação cliente atual (30%). Google "harmonização facial Moema" (10%).
+
+**Trauma com marketing (PESADO).** Vive sob espada de Dâmocles regulatória.
+- **Caso Bahia (abr/2024):** 1ª Vara Cível JF Bahia **PROIBIU enfermeira** de "realizar procedimentos estéticos exclusivo de médicos, bem como de divulgá-los nas redes sociais", em ação do CREMEB. Multa de **R$ 1.000/dia**. Procedimentos vetados: bioestimuladores, toxina botulínica, harmonização.
+- **CFM Res. 2.416/2024** quer restringir botox ao médico. **Justiça suspendeu parte** da COFEN 529/2016 (micropuntura, laser terapêutico, depilação, criolipólise, escleroterapia, mesoterapia, peelings) — exclusivos do médico.
+- COFEN entrou na justiça contra CFM 2.416/2024 — vitória parcial.
+- Em 2024 Juliana recebeu DM ameaçando denúncia à CREMESP — não virou processo, mas dormiu mal por 2 semanas. Hoje tem advogado especializado em conflito CRM-COREN (R$ 1.800/mês).
+
+**Medos (ordem brutal).**
+1. **Médico processar / Justiça proibir / CRM tirar do ar** (caso Bahia é o pesadelo, multa diária R$ 1.000).
+2. **Caso replicar em SP** — CRM-SP entrar com ação semelhante.
+3. **Não receber piso CLT (R$ 4.750) mas ainda não ter clientela suficiente** — risco de quebrar nos primeiros 18 meses.
+4. **Resolução COFEN nova ser revertida na Justiça** (pendular).
+5. **Procedimento com intercorrência (necrose, infecção)** sem cobertura jurídica — vira processo cível + criminal.
+
+**Desejos.**
+1. **Sair da CLT (já saiu) e estabilizar consultório próprio**.
+2. **Faturar R$ 25-30k/mês com mesma estrutura**.
+3. **Pós em estética avançada** (Allergan Academy, Galderma) pra subir nível.
+4. **Marca pessoal forte no Insta** (40k+ seguidores).
+5. **Equipe própria** (1 técnica de estética CLT).
+
+**Crenças.** "Enfermeira esteta é tão capaz quanto médico esteta — fizemos a mesma pós". "CFM tem preconceito de profissão". "Mercado estética cresce com ou sem regulação". "Marketing tem que ser pesado mas com TCLE assinado". "Botox em mim mesma vende mais que palavra".
+
+**Vocabulário.** "Toxina botulínica" / "TXB", "preenchimento", "bioestimulador", "PRP", "fio de PDO", "harmonização orofacial" (cuidado com CFO/CRO), "peeling químico", "microagulhamento", "drenagem linfática", "lipocavitação", "criolipólise" (suspenso), "SAE" (sistematização da assistência), "anamnese de enfermagem", "URTE" (Unidade de Trabalho de Enfermagem — tabela COFEN).
+
+**Gatilhos que abrem.** Caso de enfermeira esteta com clínica boutique que cresceu sem ser processada. CRM com prontuário robusto + TCLE digital integrado. Tema "como blindar Instagram contra denúncia CFM". Caso Josilene Penha Labanca (ES, ganhou contra CRM, virou jurisprudência).
+
+**Gatilhos que fecham.** Linguagem que sugere "enfermeira pode tudo" (proibido). Promessa numérica. Marketing que ignora CFM/COFEN. Imagem de procedimento sem TCLE.
+
+**Variação.** Em SP capital, perfil idêntico. No NE (Salvador, Recife, Fortaleza), perfil mais arriscado (Bahia já tem precedente). Em capital menor, perfil similar mas menos visibilidade (menos risco de denúncia).
+
+**Fontes-base.**
+- Caso Bahia abr/2024 R$ 1.000/dia — https://portal.cfm.org.br/noticias/justica-federal-proibe-enfermeira-de-atuar-em-procedimentos-esteticos/
+- COFEN Res. 715/2023 — https://www.cofen.gov.br/resolucao-cofen-no-715-2023/
+- CFM Res. 2.416/2024 vs COFEN — https://www.cofen.gov.br/cofen-vai-a-justica-defender-enfermagem/
+- Piso enfermagem R$ 4.750 — https://www.cofen.gov.br/wp-content/uploads/2024/02/Cartilha-Piso-da-enfermagem.pdf
+- Justiça suspende parte 529/2016 — https://portal.cfm.org.br/noticias/132687/
+- UNASP pós enfermagem estética — https://unasp.br/pos/cursos/enfermagem-estetica/
+- Enfermagem 84,6% mulheres — https://www.cofen.gov.br/pesquisa-inedita-traca-perfil-da-enfermagem/
+
+---
+
+### Persona 31 — Nazaré, a podóloga do interior
+
+**Snapshot.** 53 anos, podóloga formada Senac Fortaleza 2018 (curso técnico de 18 meses). Mãe de 3 filhos (já adultos). Antes da profissão era do lar. Começou aos 47 anos depois que arrancou unha encravada do marido (trabalhador naval). Abriu "Pés Saudáveis Nazaré" em Fortaleza-CE em 2019 com **R$ 5 mil de crédito do Programa Acredita no Primeiro Passo** (governo federal). Faturamento R$ 6-9k/mês. Solo. Casada, 3 filhos adultos.
+
+**Rotina de uma terça.** 6h acorda. Café com marido. 7h30 caminha 30min pela praia de Iracema. 8h30 chega ao consultório (sala 25m², Aldeota popular). Atende 9h-12h (3-4 clientes — corte técnico, calo, unha encravada, pé diabético). Almoço em casa (10min de carro). 14h-18h mais 4-5 clientes. 18h fecha. 19h jantar família. 21h novela Globo. Dorme 22h30.
+
+**Vida pessoal.** Casa modesta na Aldeota (própria, herança da família do marido). Carro: Fiat Mobi. Viagem: Caldas Novas, Maranhão visitar irmã, Beto Carrero 1x. Roupa: Renner, Riachuelo, Hering. Religião católica praticante (missa domingo, grupo de orações). Política votou Bolsonaro 2018 e 2022. Lê Bíblia, livro de podologia técnica. Não consome podcast nem YouTube intelectual. Vê novela, jornal, "Mais Você". Comida tradicional nordestina. Cerveja fim de semana com marido.
+
+**Por que abriu.** Em 2017 marido sofria com unha encravada crônica. Nazaré pegou alicate e arrancou — descobriu que tinha habilidade. Em 2018 fez curso técnico Senac (R$ 1.800 parcelado). Em 2019 conseguiu **R$ 5 mil pelo Acredita** (microcrédito federal) — comprou cadeira, autoclave, alicates. Hoje 5 anos depois, clientela construída. Filha mais velha pensa em virar podóloga — sucessão potencial.
+
+**Modelo de negócio.** Particular 100%. Tickets: avaliação podológica R$ 120, atendimento clássico R$ 90, pé diabético acompanhamento mensal R$ 150, ortonixia (correção unha) R$ 250 + 3 retornos. 4 atendimentos/dia × R$ 100 × 22 dias = R$ 8.800 bruto/mês. Lucro líquido R$ 5-6k/mês.
+
+**Como capta.** Indicação cliente atual (60% — boca-a-boca na vizinhança). Endocrinologista da Aldeota indica pé diabético (20%). Google Meu Negócio (15% — sobrinha ajudou). Instagram (5% — 800 seguidores, sem rosto). Não usa TikTok.
+
+**Trauma com marketing.** Praticamente nenhum. Publicidade pouco regulada (CFBM regula podologia mas não atua em fiscalização ativa de publicidade). **Diferente de fono/médico/enfermeira, ela tem liberdade. Não é vantagem — é risco invertido: ninguém ensina ela a fazer melhor.**
+
+**Medos.**
+1. **Acidente operacional** (corte gera infecção → processo). Tem seguro RC profissional (R$ 1.200/ano).
+2. **Pé diabético com necrose** — caso grave vira processo cível.
+3. **Cliente popular reclamando preço** — "podologia clássica" cobra R$ 35 em salão informal, ela cobra R$ 90.
+4. **Concorrência de franquia** — All Pé Brasil tem 46 unidades em 11 estados, R$ 48mi faturamento, +18%/ano. Já abriu em Fortaleza.
+5. **Regulamentação migrar pra graduação superior em 10 anos** (lei sinaliza) — seu técnico vira "fundo de quintal".
+
+**Desejos.**
+1. **Convênio que pague atendimento podológico** pra diabético (parceria com endocrino).
+2. **Especialização técnica em diabetes / esporte** — subir ticket.
+3. **Filha entrar como sócia** — sucessão familiar.
+4. **Reconhecimento profissional** — deixar de ser confundida com manicure.
+5. **Atender corredor amador** (público que paga mais — boom da corrida no NE).
+
+**Crenças.** "Podologia salva pé de diabético". "Manicure no salão sem técnica pode amputar pé". "Programa Acredita salvou minha vida". "Microcrédito é mais fácil que banco — banco nega tudo". "Senac é a melhor formação técnica do Brasil". "Profissão tem que ser regulamentada".
+
+**Vocabulário.** "Avaliação podológica", "limpeza", "corte técnico", "onicocriptose" (unha encravada), "onicomicose", "calo" / "calosidade", "hiperqueratose", "fissura", "olho-de-peixe" (verruga plantar), "esporão", "ortonixia" (correção de unha), "cauterização química", "lima trifásica", "alicate de unha cabo longo", "spray descontaminante", "pé diabético grau I/II", "neuropatia diabética".
+
+**Gatilhos que abrem.** Linguagem simples, direta. Caso de outra podóloga do interior que cresceu. Conteúdo sobre parceria com endocrino pra pé diabético. Programa governamental (Acredita, Sebrae Mulher). Sucessão familiar. Tema "como diferenciar podologia clínica de manicure".
+
+**Gatilhos que fecham.** Linguagem corporativa de SP. Promessa "agenda lotada". Conteúdo coach de "alta performance". Marketing com cara de classe AB+.
+
+**Variação.** Em capital do NE (Recife, Salvador, Natal), perfil idêntico. Em interior nordestino, perfil similar — talvez com Insta menor. Em SP capital, perfil é diferente (mais "podóloga esportiva premium" pra corredor classe B+).
+
+**Fontes-base.**
+- Nazaré Mary Dornelas Acredita Fortaleza — https://agenciagov.ebc.com.br/noticias/202504/acredita-no-primeiro-passo-transforma-vida-de-podologa-em-fortaleza-e-impulsiona-mais-de-87-mil-negocios-pelo-brasil
+- All Pé Brasil 46 unidades — https://www.portaldofranchising.com.br/franquias/all-pe-brasil-consolida-lideranca/
+- Senac SP curso podologia — https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-podologia
+- ABP regulamentação — https://www.podologo.com.br/regulamentacao-da-classe.html
+- Senado aprovou regulamentação 2022 — https://www12.senado.leg.br/radio/1/noticia/2022/03/10/senado-aprova-regulamentacao-da-profissao-de-podologo
+- CFBM regulamenta podologia — https://www.cristofoli.com/biosseguranca/podologia-conselho-federal-de-biomedicina-regulamenta-o-exercicio-da-profissao/
+- Preço podologia — https://www.getninjas.com.br/moda-e-beleza/podologo/preco/podologo
+- Salário podóloga autônoma R$ 6k+ — https://montarumnegocio.com/quanto-ganha-um-podologo-autonomo/
+
+---
+
 ## 5. Implicações para a copy
 
 A oferta declarada do cliente: **marketing digital de atração de paciente + conversão + CRM**. As personas dizem 7 coisas que precisam estar no DNA da copy.
@@ -1074,7 +1875,15 @@ A oferta declarada do cliente: **marketing digital de atração de paciente + co
 
 ## 6. Bibliografia consolidada
 
-A bibliografia completa, com ~800 fontes catalogadas, está em `pesquisa/01-dentistas.md`, `pesquisa/02-medicos.md`, `pesquisa/03-fisioterapeutas.md`, `pesquisa/04-outros.md`, `pesquisa/05-estilo-de-vida.md`, `pesquisa/06-genero.md` e `pesquisa/07-sociedade.md`. Cada uma das 16 personas acima traz no rodapé as 5-10 fontes principais que a sustentam.
+A bibliografia completa, com **~1.300 fontes catalogadas**, está em `pesquisa/`:
+- `01-dentistas.md`, `02-medicos.md`, `03-fisioterapeutas.md`, `04-outros.md` (psico/estética/nutri/vet) — Onda 1
+- `05-estilo-de-vida.md`, `06-genero.md`, `07-sociedade.md` — Onda 2 (transversais)
+- `08-especialidades-medicas-premium.md` (plástica/oftalmo/otorrino/uro) — Onda 3
+- `09-medicina-concierge-longevidade.md` (longevity/geriatra/DPC) — Onda 3
+- `10-fiv-glp1-pediatria.md` — Onda 3
+- `11-profissoes-adjacentes.md` (fono/TO/quiro/enf/podo) — Onda 3
+
+Cada uma das **31 personas** acima traz no rodapé as 5-10 fontes principais que a sustentam.
 
 **Fontes institucionais centrais (CFM, CFO, CFP, CFN, CFMV, COFFITO, CFBM):**
 - Demografia Médica 2025 — https://bvsms.saude.gov.br/bvs/publicacoes/demografia_medica_brasil_2025.pdf
