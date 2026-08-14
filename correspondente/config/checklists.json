@@ -1,0 +1,62 @@
+{
+  "_comentario": "Pacotes de documentação. Edite livremente: o motor de checklist e as cobranças leem daqui.",
+  "pacotes": {
+    "primeira_leva_padrao": {
+      "nome": "Primeira leva — capital de giro PJ (lucro real/presumido)",
+      "descricao": "O que precisa estar completo antes de qualquer envio a gerente.",
+      "itens": [
+        { "tipo": "FICHA_CADASTRAL", "obrigatorio": true, "qtd_min": 1, "observacao": "assinada pelo sócio administrador" },
+        { "tipo": "CONTRATO_SOCIAL", "obrigatorio": true, "qtd_min": 1, "observacao": "última alteração registrada na Junta" },
+        { "tipo": "CARTAO_CNPJ", "obrigatorio": true, "qtd_min": 1, "observacao": "emitido nos últimos 30 dias" },
+        { "tipo": "FATURAMENTO_12M", "obrigatorio": true, "qtd_min": 1, "observacao": "12 meses, assinado pelo contador com CRC" },
+        { "tipo": "BALANCO", "obrigatorio": true, "qtd_min": 1, "observacao": "último exercício fechado" },
+        { "tipo": "DRE", "obrigatorio": true, "qtd_min": 1, "observacao": "último exercício fechado" },
+        { "tipo": "BALANCETE", "obrigatorio": false, "qtd_min": 1, "observacao": "exercício corrente, se houver" },
+        { "tipo": "EXTRATO_BANCARIO", "obrigatorio": true, "qtd_min": 3, "observacao": "3 últimos meses fechados, todos os bancos" },
+        { "tipo": "ENDIVIDAMENTO", "obrigatorio": true, "qtd_min": 1, "observacao": "relação de dívidas ou Registrato do BC" },
+        { "tipo": "DOC_SOCIO", "obrigatorio": true, "qtd_min": 1, "por_socio": true, "observacao": "RG ou CNH de cada sócio" },
+        { "tipo": "IRPF_SOCIO", "obrigatorio": true, "qtd_min": 1, "por_socio": true, "observacao": "declaração completa + recibo" },
+        { "tipo": "COMPROVANTE_ENDERECO", "obrigatorio": true, "qtd_min": 1, "observacao": "PJ, últimos 90 dias" },
+        { "tipo": "SERASA", "obrigatorio": false, "qtd_min": 1, "observacao": "puxar antes de enviar, evita recusa boba" }
+      ]
+    },
+    "primeira_leva_simples": {
+      "nome": "Primeira leva — empresa do Simples Nacional",
+      "descricao": "Versão enxuta para empresa do Simples, sem contabilidade completa.",
+      "itens": [
+        { "tipo": "FICHA_CADASTRAL", "obrigatorio": true, "qtd_min": 1 },
+        { "tipo": "CONTRATO_SOCIAL", "obrigatorio": true, "qtd_min": 1 },
+        { "tipo": "CARTAO_CNPJ", "obrigatorio": true, "qtd_min": 1 },
+        { "tipo": "PGDAS", "obrigatorio": true, "qtd_min": 6, "observacao": "6 últimas apurações" },
+        { "tipo": "FATURAMENTO_12M", "obrigatorio": true, "qtd_min": 1 },
+        { "tipo": "EXTRATO_BANCARIO", "obrigatorio": true, "qtd_min": 3 },
+        { "tipo": "DOC_SOCIO", "obrigatorio": true, "qtd_min": 1, "por_socio": true },
+        { "tipo": "IRPF_SOCIO", "obrigatorio": true, "qtd_min": 1, "por_socio": true },
+        { "tipo": "COMPROVANTE_ENDERECO", "obrigatorio": true, "qtd_min": 1 }
+      ]
+    },
+    "segunda_leva_padrao": {
+      "nome": "Segunda leva — pós pré-aprovação",
+      "descricao": "O que os gerentes costumam pedir depois que a proposta anda.",
+      "itens": [
+        { "tipo": "CND_FEDERAL", "obrigatorio": true, "qtd_min": 1 },
+        { "tipo": "CND_FGTS", "obrigatorio": true, "qtd_min": 1, "observacao": "vence em 30 dias, deixar para o fim" },
+        { "tipo": "CND_TRABALHISTA", "obrigatorio": true, "qtd_min": 1 },
+        { "tipo": "CND_ESTADUAL_MUNICIPAL", "obrigatorio": false, "qtd_min": 1 },
+        { "tipo": "CERTIDAO_SIMPLIFICADA", "obrigatorio": true, "qtd_min": 1 },
+        { "tipo": "SPED_ECF", "obrigatorio": false, "qtd_min": 1 },
+        { "tipo": "RECEBIVEIS", "obrigatorio": false, "qtd_min": 1, "observacao": "se a operação for de antecipação" },
+        { "tipo": "PROCURACAO", "obrigatorio": false, "qtd_min": 1, "observacao": "autorização de consulta ao SCR" }
+      ]
+    },
+    "garantia_imovel": {
+      "nome": "Complemento — garantia imobiliária",
+      "descricao": "Quando a operação sai com imóvel em garantia.",
+      "itens": [
+        { "tipo": "MATRICULA_IMOVEL", "obrigatorio": true, "qtd_min": 1, "observacao": "matrícula atualizada, até 30 dias" },
+        { "tipo": "COMPROVANTE_ENDERECO", "obrigatorio": true, "qtd_min": 1, "observacao": "IPTU do imóvel dado em garantia" },
+        { "tipo": "CND_FEDERAL", "obrigatorio": true, "qtd_min": 1, "observacao": "do proprietário do imóvel" }
+      ]
+    }
+  }
+}

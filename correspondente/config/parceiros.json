@@ -1,0 +1,45 @@
+{
+  "_comentario": "Parceiros indicadores (escritórios, consultores, contadores). O histórico de qualidade ajuda a saber de quem cobrar mais cedo.",
+  "parceiros": [
+    {
+      "codigo": "esc_lima",
+      "nome": "Rodrigo Lima",
+      "empresa": "Lima Consultoria Empresarial",
+      "email": "rodrigo@exemplo-limaconsultoria.com.br",
+      "whatsapp": "+55 11 91000-0001",
+      "canal_preferido": "whatsapp",
+      "qualidade_documental": "media",
+      "observacoes": "Manda tudo de uma vez mas quase sempre sem extrato do mês fechado."
+    },
+    {
+      "codigo": "esc_vertice",
+      "nome": "Patrícia Nunes",
+      "empresa": "Vértice Assessoria",
+      "email": "patricia@exemplo-vertice.com.br",
+      "whatsapp": "+55 11 91000-0002",
+      "canal_preferido": "email",
+      "qualidade_documental": "alta",
+      "observacoes": "Organizada. Costuma mandar o dossiê completo na primeira leva."
+    },
+    {
+      "codigo": "cons_tavares",
+      "nome": "Eduardo Tavares",
+      "empresa": "Tavares & Associados",
+      "email": "eduardo@exemplo-tavares.com.br",
+      "whatsapp": "+55 11 91000-0003",
+      "canal_preferido": "whatsapp",
+      "qualidade_documental": "baixa",
+      "observacoes": "Manda foto de documento pelo WhatsApp. Sempre falta balanço e IR dos sócios."
+    },
+    {
+      "codigo": "cont_horizonte",
+      "nome": "Silvana Reis",
+      "empresa": "Contabilidade Horizonte",
+      "email": "silvana@exemplo-horizonte.com.br",
+      "whatsapp": "+55 11 91000-0004",
+      "canal_preferido": "email",
+      "qualidade_documental": "alta",
+      "observacoes": "É a contadora de várias empresas — dá para pedir faturamento e balanço direto com ela."
+    }
+  ]
+}

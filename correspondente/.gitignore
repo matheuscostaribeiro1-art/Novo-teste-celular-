@@ -1,0 +1,7 @@
+# Estado de operação — cada máquina tem o seu
+pipeline/
+empresas/
+inbox/
+saida/
+__pycache__/
+*.pyc

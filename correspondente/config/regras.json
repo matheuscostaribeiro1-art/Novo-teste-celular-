@@ -1,0 +1,20 @@
+{
+  "operador": {
+    "nome": "Correspondente",
+    "email": "correspondente@exemplo.com.br",
+    "assinatura": "Correspondente Bancário\nCrédito PJ · (11) 9xxxx-xxxx"
+  },
+  "_sla_comentario": "Dias ÚTEIS parados até virar cobrança na fila do dia. Feriados nacionais fixos já são descontados.",
+  "sla": {
+    "recebido": { "dias": 1, "alvo": "interno" },
+    "em_triagem": { "dias": 1, "alvo": "interno" },
+    "pendente_documentos": { "dias": 2, "alvo": "parceiro" },
+    "pronto_envio": { "dias": 1, "alvo": "interno" },
+    "em_analise": { "dias": 3, "alvo": "gerente" },
+    "pre_aprovado": { "dias": 2, "alvo": "gerente" },
+    "pendente_complementar": { "dias": 2, "alvo": "empresa" },
+    "call_agendada": { "dias": 2, "alvo": "interno" },
+    "proposta_emitida": { "dias": 2, "alvo": "empresa" },
+    "em_formalizacao": { "dias": 3, "alvo": "gerente" }
+  }
+}

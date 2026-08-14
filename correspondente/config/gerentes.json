@@ -1,0 +1,137 @@
+{
+  "_comentario": "Cadastro de gerentes. O 'apetite' alimenta a sugestão automática de para quem mandar cada empresa. Dados de exemplo — troque pelos reais.",
+  "gerentes": [
+    {
+      "codigo": "bruno_itau",
+      "nome": "Bruno Almeida",
+      "instituicao": "Itaú Empresas",
+      "tipo": "banco",
+      "email": "bruno.almeida@exemplo-itau.com.br",
+      "whatsapp": "+55 11 90000-0001",
+      "apetite": {
+        "faturamento_min_anual": 5000000,
+        "faturamento_max_anual": 300000000,
+        "ticket_min": 300000,
+        "ticket_max": 8000000,
+        "produtos": ["capital_giro", "antecipacao_recebiveis", "conta_garantida"],
+        "garantias": ["aval", "recebiveis", "imovel"],
+        "setores_preferidos": ["industria", "logistica", "atacado"],
+        "setores_evitados": ["construcao-civil", "agencia-de-publicidade"],
+        "aceita_serasa": false,
+        "prazo_retorno_dias": 3,
+        "limite_simultaneo": 5
+      },
+      "observacoes": "Pede resumo da operação no corpo do e-mail, não abre anexo sem contexto."
+    },
+    {
+      "codigo": "carla_santander",
+      "nome": "Carla Menezes",
+      "instituicao": "Santander Empresas",
+      "tipo": "banco",
+      "email": "carla.menezes@exemplo-santander.com.br",
+      "whatsapp": "+55 11 90000-0002",
+      "apetite": {
+        "faturamento_min_anual": 3000000,
+        "faturamento_max_anual": 120000000,
+        "ticket_min": 200000,
+        "ticket_max": 4000000,
+        "produtos": ["capital_giro", "antecipacao_recebiveis", "finame"],
+        "garantias": ["aval", "recebiveis"],
+        "setores_preferidos": ["servicos", "saude", "varejo"],
+        "setores_evitados": ["factoring"],
+        "aceita_serasa": false,
+        "prazo_retorno_dias": 2,
+        "limite_simultaneo": 6
+      },
+      "observacoes": "Responde rápido, mas some na última semana do mês (fechamento de meta)."
+    },
+    {
+      "codigo": "diego_btg",
+      "nome": "Diego Ferraz",
+      "instituicao": "BTG Empresas",
+      "tipo": "banco",
+      "email": "diego.ferraz@exemplo-btg.com.br",
+      "whatsapp": "+55 11 90000-0003",
+      "apetite": {
+        "faturamento_min_anual": 15000000,
+        "faturamento_max_anual": 500000000,
+        "ticket_min": 1000000,
+        "ticket_max": 20000000,
+        "produtos": ["capital_giro", "estruturada", "antecipacao_recebiveis"],
+        "garantias": ["recebiveis", "imovel", "aval"],
+        "setores_preferidos": ["industria", "agro", "energia"],
+        "setores_evitados": [],
+        "aceita_serasa": false,
+        "prazo_retorno_dias": 5,
+        "limite_simultaneo": 4
+      },
+      "observacoes": "Só olha operação acima de R$ 1 mi. Gosta de balanço auditado."
+    },
+    {
+      "codigo": "renata_fundo_atlas",
+      "nome": "Renata Prado",
+      "instituicao": "Atlas FIDC",
+      "tipo": "fundo",
+      "email": "renata.prado@exemplo-atlas.com.br",
+      "whatsapp": "+55 11 90000-0004",
+      "apetite": {
+        "faturamento_min_anual": 1200000,
+        "faturamento_max_anual": 80000000,
+        "ticket_min": 100000,
+        "ticket_max": 3000000,
+        "produtos": ["antecipacao_recebiveis", "capital_giro"],
+        "garantias": ["recebiveis", "aval", "imovel"],
+        "setores_preferidos": ["construcao-civil", "servicos", "logistica"],
+        "setores_evitados": [],
+        "aceita_serasa": true,
+        "prazo_retorno_dias": 2,
+        "limite_simultaneo": 8
+      },
+      "observacoes": "Aceita empresa com restrição e caso com garantia real. Taxa maior, mas destrava o que banco recusa."
+    },
+    {
+      "codigo": "paulo_sicoob",
+      "nome": "Paulo Rocha",
+      "instituicao": "Sicoob",
+      "tipo": "cooperativa",
+      "email": "paulo.rocha@exemplo-sicoob.com.br",
+      "whatsapp": "+55 11 90000-0005",
+      "apetite": {
+        "faturamento_min_anual": 600000,
+        "faturamento_max_anual": 30000000,
+        "ticket_min": 50000,
+        "ticket_max": 1500000,
+        "produtos": ["capital_giro", "conta_garantida", "finame"],
+        "garantias": ["aval", "imovel"],
+        "setores_preferidos": ["varejo", "servicos", "saude", "agro"],
+        "setores_evitados": ["factoring"],
+        "aceita_serasa": false,
+        "prazo_retorno_dias": 4,
+        "limite_simultaneo": 6
+      },
+      "observacoes": "Precisa de associação prévia. Bom para ticket pequeno e empresa do Simples."
+    },
+    {
+      "codigo": "marcos_daycoval",
+      "nome": "Marcos Vinícius Teixeira",
+      "instituicao": "Daycoval",
+      "tipo": "banco",
+      "email": "marcos.teixeira@exemplo-daycoval.com.br",
+      "whatsapp": "+55 11 90000-0006",
+      "apetite": {
+        "faturamento_min_anual": 2000000,
+        "faturamento_max_anual": 150000000,
+        "ticket_min": 150000,
+        "ticket_max": 5000000,
+        "produtos": ["capital_giro", "antecipacao_recebiveis", "trade"],
+        "garantias": ["aval", "recebiveis", "imovel"],
+        "setores_preferidos": ["atacado", "industria", "transporte"],
+        "setores_evitados": [],
+        "aceita_serasa": true,
+        "prazo_retorno_dias": 3,
+        "limite_simultaneo": 7
+      },
+      "observacoes": "Analisa caso a caso com restritivo pequeno. Sempre pede Registrato."
+    }
+  ]
+}
